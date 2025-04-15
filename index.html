@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BITS Dubai Timetable Generator</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script> <!-- Include html2canvas library -->
+</head>
+<body lang="en">
+    <header>
+        <h1>BITS Dubai Timetable Generator</h1>
+        <div class="dark-mode-toggle">
+            <label class="switch">
+                <input type="checkbox" id="darkModeToggle">
+                <span class="slider round"></span>
+            </label>
+            <span class="dark-mode-text">Dark Mode</span>
+        </div>
+    </header>
+
+    <main>
+        <section class="course-search-section">
+            <div class="search-container">
+                <input type="text" id="courseSearch" placeholder="Search Courses by Code or Title">
+            </div>
+        </section>
+
+        <section class="course-management">
+            <h2>Available Courses</h2>
+            <div id="courseList">
+                <!-- Courses will be listed here by JavaScript -->
+            </div>
+            <div class="add-course-section">
+                <h4> </h4>
+                <!-- <input type="text" id="newCourseCode" placeholder="Course Code (e.g., NEW F101)"> -->
+                <!-- <input type="text" id="newCourseTitle" placeholder="Course Title"> -->
+                <button id="addCourseBtn" style="display: none;">Add Course</button>
+            </div>
+        </section>
+
+        <section class="selection-info">
+            <div class="credit-display">
+                <strong>Total Credits: <span id="totalCreditsDisplay">0</span> / 25</strong>
+            </div>
+            <div class="clash-container" id="examClashContainer" style="display: none;">
+                <strong>Exam Clashes:</strong>
+                <ul id="examClashList"></ul>
+            </div>
+        </section>
+
+
+        <section class="section-selection" style="display: none;">
+            <div class="section-header">
+                <h2>Section Selection</h2>
+            </div>
+            <div id="sectionList">
+                <!-- Section selection UI will be generated here -->
+            </div>
+        </section>
+
+        <section class="generate-section" style="display: none;">
+            <button id="generateTimetableBtn">Generate Timetable</button>
+        </section>
+
+        <section class="timetable-display" style="display: none;">
+            <div class="timetable-header">
+                <h2>Timetable</h2>
+            </div>
+            <div id="timetableGrid">
+                <!-- Timetable grid will be displayed here -->
+            </div>
+            <div class="timetable-navigation" style="display: none;">
+                <button id="prevTimetableBtn">← Previous</button>
+                <button id="nextTimetableBtn">Next →</button>
+                <span id="timetableNumberDisplay"></span>
+                <button id="downloadTimetableBtn">Download Timetable</button> <!-- Download Button Added Here -->
+            </div>
+            <div id="timetableDetails">
+                <!-- Detailed course information will be displayed here -->
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2025 BITS Dubai Timetable Generator. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

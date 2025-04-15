@@ -1,0 +1,537 @@
+/* style.css - Fixed Column Width & Row Height Timetable & Dark Mode Friendly Styles */
+
+/* CSS Variables for Color Palette (Light Mode - Default) */
+:root {
+    --primary-color: #007bff;
+    --secondary-color: #6c757d;
+    --background-color: #f8f9fa;
+    --surface-color: #ffffff;
+    --text-color-primary: #212529;
+    --text-color-secondary: #495057;
+    --border-color: #ced4da;
+    --hover-background: #e9ecef;
+    --selected-background: #28a745;
+    --error-color: #dc3545;
+    --success-color: #28a745;
+    --footer-background: #007bff;
+}
+
+/* Dark Mode Color Palette Overrides (applied via body.dark-mode class) */
+body.dark-mode {
+    --background-color: #121212;
+    --surface-color: #1e1e1e;
+    --text-color-primary: #f8f9fa;
+    --text-color-secondary: #ced4da;
+    --border-color: #495057;
+    --hover-background: #343a40;
+    --footer-background: #212529;
+}
+
+/* General Body and Font Styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--background-color);
+    color: var(--text-color-primary);
+    line-height: 1.5;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Header and Footer Styles */
+header, footer {
+    background-color: var(--footer-background);
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+    position: relative;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 1.8em;
+    font-weight: 500;
+}
+
+footer {
+    margin-top: 20px;
+    font-size: 0.8em;
+    color: #eee;
+}
+
+/* Dark Mode Toggle Container in Header */
+header .dark-mode-toggle {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: #fff;
+}
+
+header .dark-mode-toggle .dark-mode-text {
+    font-size: 0.9em;
+}
+
+/* Switch Styles */
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 40px;
+    height: 22px;
+}
+
+.switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    transition: .4s;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 16px;
+    width: 16px;
+    left: 3px;
+    bottom: 3px;
+    background-color: white;
+    transition: .4s;
+}
+
+input:checked + .slider {
+    background-color: var(--primary-color);
+}
+
+input:focus + .slider {
+    box-shadow: 0 0 1px var(--primary-color);
+}
+
+input:checked + .slider:before {
+    transform: translateX(18px);
+}
+
+.slider.round {
+    border-radius: 34px;
+}
+
+.slider.round:before {
+    border-radius: 50%;
+}
+
+/* Main Content Area */
+main {
+    padding: 20px;
+    max-width: 1000px;
+    margin: 20px auto;
+    background-color: var(--surface-color);
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+    transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+body.dark-mode main {
+    background-color: var(--surface-color);
+    box-shadow: 0 3px 10px rgba(255,255,255,0.08);
+}
+
+/* Sections */
+section {
+    margin-bottom: 20px;
+    padding: 15px 20px;
+    border-radius: 7px;
+    background-color: var(--surface-color);
+    border: 1px solid var(--border-color);
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+body.dark-mode section {
+    background-color: var(--surface-color);
+    border-color: var(--border-color);
+}
+
+section h2, section h3, section h4 {
+    color: var(--text-color-primary);
+    margin-top: 0;
+    margin-bottom: 14px;
+    border-bottom: 1.5px solid var(--border-color);
+    padding-bottom: 6px;
+    font-size: 1.3em;
+    transition: color 0.3s, border-color 0.3s;
+}
+
+body.dark-mode section h2, body.dark-mode section h3, body.dark-mode section h4 {
+    color: var(--text-color-primary);
+    border-color: var(--border-color);
+}
+
+/* Search and Add Course Containers */
+.search-container, .add-course-section {
+    margin-bottom: 15px;
+}
+
+.search-container input[type="text"], .add-course-section input[type="text"] {
+    padding: 9px;
+    border: 1px solid var(--border-color);
+    border-radius: 5px;
+    width: calc(100% - 20px);
+    margin-bottom: 7px;
+    font-size: 0.95em;
+    background-color: var(--surface-color);
+    color: var(--text-color-primary);
+    transition: background-color 0.3s, border-color 0.3s, color 0.3s;
+}
+
+.search-container input[type="text"]:focus, .add-course-section input[type="text"]:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 0.15rem rgba(0,123,255,.25);
+}
+
+body.dark-mode .search-container input[type="text"], body.dark-mode .add-course-section input[type="text"] {
+    background-color: var(--surface-color);
+    border-color: var(--border-color);
+    color: var(--text-color-primary);
+}
+
+.add-course-section {
+    display: flex;
+    gap: 12px;
+    align-items: start;
+    flex-wrap: wrap;
+}
+
+.add-course-section input[type="text"] {
+    flex-grow: 1;
+    min-width: 140px;
+}
+
+/* Course List Container */
+.course-management #courseList {
+    max-height: 250px;
+    overflow-y: auto;
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    padding: 0;
+    transition: border-color 0.3s;
+}
+
+body.dark-mode .course-management #courseList {
+    border-color: var(--border-color);
+}
+
+/* Course Item Styles */
+.course-item {
+    padding: 9px 12px;
+    margin-bottom: 0;
+    border-bottom: 1px dashed var(--border-color);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.9em;
+    transition: border-color 0.3s;
+}
+
+body.dark-mode .course-item {
+    border-color: var(--border-color);
+    color: var(--text-color-primary);
+}
+
+.course-item:last-child {
+    border-bottom: none;
+}
+
+/* Button Styles - General */
+.course-item button, .add-course-section button, #generateTimetableBtn, .timetable-navigation button {
+    background-color: var(--background-color);
+    color: var(--text-color-secondary);
+    border: 1px solid var(--border-color);
+    padding: 8px 14px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 0.9em;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+}
+
+body.dark-mode .course-item button, body.dark-mode .add-course-section button,
+body.dark-mode #generateTimetableBtn, body.dark-mode .timetable-navigation button {
+    background-color: var(--background-color);
+    color: var(--text-color-secondary);
+    border-color: var(--border-color);
+}
+
+.course-item button:hover, .add-course-section button:hover, #generateTimetableBtn:hover, .timetable-navigation button:hover {
+    background-color: var(--hover-background);
+    border-color: var(--secondary-color);
+    color: var(--text-color-primary);
+}
+
+body.dark-mode .course-item button:hover, body.dark-mode .add-course-section button:hover,
+body.dark-mode #generateTimetableBtn:hover, body.dark-mode .timetable-navigation button:hover {
+    background-color: var(--hover-background);
+    border-color: var(--secondary-color);
+    color: var(--text-color-primary);
+}
+
+
+/* Selected Button Style */
+.course-item button.selected-button,
+.course-item button.selected-button:hover {
+    background-color: var(--selected-background);
+    color: white;
+    border-color: var(--selected-background);
+}
+
+/* Section Header Styles */
+.section-header {
+    margin-bottom: 15px;
+}
+
+/* Section Course Row Styles */
+.section-course-row {
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+    border-bottom: 1px dashed var(--border-color);
+    transition: border-color 0.3s;
+}
+
+body.dark-mode .section-course-row {
+    border-color: var(--border-color);
+}
+
+.section-course-row:last-child {
+    border-bottom: none;
+}
+
+.section-course-row h3 {
+    margin-bottom: 10px;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 6px;
+    font-size: 1.1em;
+    transition: border-color 0.3s;
+}
+
+body.dark-mode .section-course-row h3 {
+    border-color: var(--border-color);
+}
+
+/* Section Types Container */
+.section-types {
+    display: flex;
+    gap: 30px;
+    margin-top: 10px;
+}
+
+/* Section Type Styles */
+.section-type {
+    flex: 1;
+}
+
+.section-type p {
+    margin-top: 0;
+    margin-bottom: 8px;
+    font-weight: 500;
+    font-size: 0.95em;
+    color: var(--text-color-secondary);
+    transition: color 0.3s;
+}
+
+body.dark-mode .section-type p {
+    color: var(--text-color-secondary);
+}
+
+/* Section Buttons Container */
+.section-buttons {
+    display: flex;
+    gap: 12px;
+    margin-top: 6px;
+    flex-wrap: wrap;
+}
+
+/* Section Button Label Styles */
+.section-buttons label {
+    display: inline-flex;
+    align-items: center;
+    margin-right: 15px;
+    margin-bottom: 7px;
+    cursor: pointer;
+    font-size: 0.9em;
+}
+
+/* Section Buttons Checkbox Styles */
+.section-buttons input[type="checkbox"] {
+    margin-right: 8px;
+    width: 16px;
+    height: 16px;
+}
+
+/* Section Course Actions (Delete Button - if you decide to add it back) */
+.section-course-actions button {
+    background-color: var(--error-color);
+    color: white;
+    border: none;
+    padding: 7px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 0.85em;
+    transition: background-color 0.3s ease;
+}
+
+.section-course-actions button:hover {
+    background-color: #c82333;
+}
+
+/* Timetable Grid Container */
+#timetableGrid {
+    overflow-x: auto;
+    margin-top: 20px;
+}
+
+/* Timetable Table Styles */
+#timetableGrid table {
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed; /* Fixed table layout is important for equal column widths */
+    border: 1px solid var(--border-color);
+    transition: border-color 0.3s;
+}
+
+body.dark-mode #timetableGrid table {
+    border-color: var(--border-color);
+}
+
+#timetableGrid th, #timetableGrid td {
+    border: 1px solid var(--border-color);
+    padding: 8px;
+    text-align: center;
+    word-wrap: break-word;
+    width: 11.11%; /* Fixed width for each cell (for 9 columns including hour) */
+    max-width: 120px; /* Maximum width to prevent cells from becoming too wide */
+    height: 40px; /* Fixed height for all cells (reduced from 50px) */
+    max-height: 40px; /* Ensure max-height is also set */
+    font-size: 0.8em; /* Further reduced font size for tighter fit */
+    transition: border-color 0.3s;
+    line-height: 1.1; /* Even tighter line height for cells */
+    box-sizing: border-box; /* Important: Include padding and border in cell width/height */
+    overflow: hidden;       /* Hide content overflow to maintain fixed height */
+    text-overflow: ellipsis; /* Indicate overflow with ellipsis (...) */
+    white-space: nowrap;    /* Prevent text from wrapping */
+}
+
+
+#timetableGrid th {
+    background-color: var(--hover-background);
+    font-weight: 500;
+    color: var(--text-color-primary);
+    font-size: 0.85em; /* Slightly reduced header font size */
+    transition: background-color 0.3s, color 0.3s;
+}
+
+body.dark-mode #timetableGrid th {
+    background-color: var(--hover-background);
+    color: var(--text-color-primary);
+}
+
+/* Timetable Details Section */
+#timetableDetails {
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid var(--border-color);
+    border-radius: 7px;
+    background-color: var(--surface-color);
+    font-size: 0.9em;
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+body.dark-mode #timetableDetails {
+    background-color: var(--surface-color);
+    border-color: var(--border-color);
+    color: var(--text-color-primary);
+}
+
+#timetableDetails h3 {
+    margin-top: 0;
+    margin-bottom: 12px;
+    font-size: 1em;
+    color: var(--text-color-primary);
+    transition: color 0.3s;
+}
+
+body.dark-mode #timetableDetails h3 {
+    color: var(--text-color-primary);
+}
+
+#timetableDetails ul, .clash-container ul {
+    padding-left: 20px;
+    margin-bottom: 0;
+}
+
+#timetableDetails li,  .clash-container li {
+    margin-bottom: 7px;
+    font-size: 0.9em;
+}
+
+/* Timetable Navigation Buttons */
+.timetable-navigation {
+    margin-top: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    align-items: center;
+}
+
+/* Selection Info Section */
+.selection-info {
+    margin-bottom: 20px;
+    padding: 15px 20px;
+    border-radius: 7px;
+    background-color: var(--surface-color);
+    border: 1px solid var(--border-color);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.9em;
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+body.dark-mode .selection-info {
+    background-color: var(--surface-color);
+    border-color: var(--border-color);
+    color: var(--text-color-primary);
+}
+
+/* Credit Display Styles */
+.credit-display {
+    color: var(--success-color);
+    font-weight: 500;
+    font-size: 0.95em;
+}
+
+/* Exam Clash Container Styles */
+.clash-container {
+    color: var(--error-color);
+    border: 1px solid var(--error-color);
+    border-radius: 5px;
+    padding: 8px 12px;
+    background-color: #f8d7da;
+    display: none;
+    font-size: 0.9em;
+}
+
+body.dark-mode .clash-container {
+    background-color: #4f2d2f;
+    border-color: var(--error-color);
+    color: var(--error-color);
+}

@@ -1,0 +1,4849 @@
+{
+    "AN F313": {
+        "course_code": 2422,
+        "course_no": "AN F313",
+        "course_title": "FLIGHT MECHANICS & CONTROL",
+        "credit": "3",
+        "instructor_in_charge": "MAJID H KHAN",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "MAJID H KHAN",
+                "room": "221",
+                "slots": [
+                    "Th34",
+                    "F1"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "04.04.2025 FN",
+        "compre": "04.06.2025 FN"
+    },
+    "BBA F121": {
+        "course_code": 2693,
+        "course_no": "BBA F121",
+        "course_title": "BUSINESS ETHIC & CORP SOC RESP",
+        "credit": "3",
+        "instructor_in_charge": "ANURAG SINGH",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "ANURAG SINGH",
+                "room": "183",
+                "slots": [
+                    "M89",
+                    "W89"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "08.04.2025 FN",
+        "compre": "03.06.2025 FN"
+    },
+    "BIO F110": {
+        "course_code": 1001,
+        "course_no": "BIO F110",
+        "course_title": "BIOLOGY LABORATORY",
+        "credit": "1",
+        "instructor_in_charge": "NEERU SOOD",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "Lucy Cherian",
+                "room": "307",
+                "slots": [
+                    "M12"
+                ]
+            },
+            {
+                "section": "L2",
+                "instructor": "Jayasree Rajashekaran",
+                "room": "307",
+                "slots": [
+                    "M34"
+                ]
+            },
+            {
+                "section": "L3",
+                "instructor": "Neeru Sood",
+                "room": "307",
+                "slots": [
+                    "M56"
+                ]
+            },
+            {
+                "section": "L4",
+                "instructor": "Piyali Maity",
+                "room": "307",
+                "slots": [
+                    "T12"
+                ]
+            },
+            {
+                "section": "L5",
+                "instructor": "Debostuti Ghosh",
+                "room": "307",
+                "slots": [
+                    "T89"
+                ]
+            },
+            {
+                "section": "L6",
+                "instructor": "Akansha Sood",
+                "room": "307",
+                "slots": [
+                    "Th23"
+                ]
+            },
+            {
+                "section": "L7",
+                "instructor": "Lucy Cherian",
+                "room": "307",
+                "slots": [
+                    "Th45"
+                ]
+            },
+            {
+                "section": "L8",
+                "instructor": "Aditya Sharma",
+                "room": "307",
+                "slots": [
+                    "F45"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "BIO F111": {
+        "course_code": 1002,
+        "course_no": "BIO F111",
+        "course_title": "GENERAL BIOLOGY",
+        "credit": "3",
+        "instructor_in_charge": "DEBOSTUTI GHOSH",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "Sugandha Asthana",
+                "room": "101",
+                "slots": [
+                    "Th45",
+                    "F45"
+                ]
+            },
+            {
+                "section": "L2",
+                "instructor": "Neeru Sood",
+                "room": "105",
+                "slots": [
+                    "T45",
+                    "Th78"
+                ]
+            },
+            {
+                "section": "L3",
+                "instructor": "Aditya Sharma",
+                "room": "123",
+                "slots": [
+                    "M12",
+                    "T8",
+                    "Th7"
+                ]
+            },
+            {
+                "section": "L4",
+                "instructor": "Debostuti Ghosh",
+                "room": "165",
+                "slots": [
+                    "W23",
+                    "Th78"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "09.04.2025 FN",
+        "compre": "02.06.2025 FN"
+    },
+    "BIOT F241": {
+        "course_code": 1359,
+        "course_no": "BIOT F241",
+        "course_title": "GENETIC ENGINEERING TECH",
+        "credit": "4",
+        "instructor_in_charge": "PALLAB SANPUI",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "PALLAB SANPUI",
+                "room": "223",
+                "slots": [
+                    "F5"
+                ]
+            }
+        ],
+        "practical_sections": [
+            {
+                "section": "P1",
+                "instructor": "Pallab Sanpui",
+                "room": "306",
+                "slots": [
+                    "T456",
+                    "W789"
+                ]
+            },
+            {
+                "section": "P2",
+                "instructor": "Sugandha Asthana",
+                "room": "307",
+                "slots": [
+                    "T456",
+                    "W789"
+                ]
+            }
+        ],
+        "midsem": "02.04.2025 AN",
+        "compre": "26.05.2025 AN"
+    },
+    "BIOT F243": {
+        "course_code": 1103,
+        "course_no": "BIOT F243",
+        "course_title": "GENETICS",
+        "credit": "3",
+        "instructor_in_charge": "ADITYA SHARMA",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "ADITYA SHARMA",
+                "room": "223",
+                "slots": [
+                    "T23",
+                    "Th12"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "03.04.2025 AN",
+        "compre": "29.05.2025 AN"
+    },
+    "BIOT F244": {
+        "course_code": 1361,
+        "course_no": "BIOT F244",
+        "course_title": "INSTRU METHODS OF ANALYSIS",
+        "credit": "4",
+        "instructor_in_charge": "TRUPTI GOKHALE",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "Shrikant Charde",
+                "room": "223",
+                "slots": [
+                    "F1"
+                ]
+            }
+        ],
+        "practical_sections": [
+            {
+                "section": "P1",
+                "instructor": "S Ramachandran",
+                "room": "305",
+                "slots": [
+                    "W234",
+                    "Th789"
+                ]
+            },
+            {
+                "section": "P2",
+                "instructor": "Trupti Gokhale",
+                "room": "307",
+                "slots": [
+                    "W234",
+                    "Th789"
+                ]
+            },
+            {
+                "section": "P3",
+                "instructor": "Mainak Dutta",
+                "room": "308",
+                "slots": [
+                    "W234",
+                    "Th789"
+                ]
+            }
+        ],
+        "midsem": "07.04.2025 AN",
+        "compre": "28.05.2025 AN"
+    },
+    "BIOT F245": {
+        "course_code": 1360,
+        "course_no": "BIOT F245",
+        "course_title": "INTRO TO ENVIRON BIOTECH",
+        "credit": "3",
+        "instructor_in_charge": "NEERU SOOD",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "NEERU SOOD",
+                "room": "223",
+                "slots": [
+                    "M12",
+                    "F23"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "08.04.2025 AN",
+        "compre": "02.06.2025 AN"
+    },
+    "BIOT F266": {
+        "course_code": 1845,
+        "course_no": "BIOT F266",
+        "course_title": "STUDY PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "MAINAK DUTTA",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "BIOT F342": {
+        "course_code": 1364,
+        "course_no": "BIOT F342",
+        "course_title": "IMMUNOLOGY",
+        "credit": "3",
+        "instructor_in_charge": "MAINAK DUTTA",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "MAINAK DUTTA",
+                "room": "205",
+                "slots": [
+                    "T12",
+                    "F45"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "02.04.2025 AN",
+        "compre": "26.05.2025 AN"
+    },
+    "BIOT F344": {
+        "course_code": 1366,
+        "course_no": "BIOT F344",
+        "course_title": "DOWNSTREAM PROCESSING",
+        "credit": "3",
+        "instructor_in_charge": "S RAMACHANDRAN",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "S RAMACHANDRAN",
+                "room": "205",
+                "slots": [
+                    "Th12"
+                ]
+            }
+        ],
+        "practical_sections": [
+            {
+                "section": "P1",
+                "instructor": "Trupti Gokhale",
+                "room": "307",
+                "slots": [
+                    "M89"
+                ]
+            },
+            {
+                "section": "P2",
+                "instructor": "S Ramachandran",
+                "room": "307",
+                "slots": [
+                    "F23"
+                ]
+            }
+        ],
+        "midsem": "07.04.2025 AN",
+        "compre": "28.05.2025 AN"
+    },
+    "BIOT F347": {
+        "course_code": 1373,
+        "course_no": "BIOT F347",
+        "course_title": "IMMUNOTECHNOLOGY",
+        "credit": "3",
+        "instructor_in_charge": "TRUPTI GOKHALE",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "TRUPTI GOKHALE",
+                "room": "205",
+                "slots": [
+                    "M12",
+                    "T3"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "09.04.2025 FN",
+        "compre": "27.05.2025 AN"
+    },
+    "BIOT F366": {
+        "course_code": 1843,
+        "course_no": "BIOT F366",
+        "course_title": "LABORATORY PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "MAINAK DUTTA",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "BIOT F367": {
+        "course_code": 1842,
+        "course_no": "BIOT F367",
+        "course_title": "LABORATORY PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "MAINAK DUTTA",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "BIOT F376": {
+        "course_code": 1841,
+        "course_no": "BIOT F376",
+        "course_title": "DESIGN PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "MAINAK DUTTA",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "BIOT F377": {
+        "course_code": 1840,
+        "course_no": "BIOT F377",
+        "course_title": "DESIGN PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "MAINAK DUTTA",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "BIOT F417": {
+        "course_code": 1433,
+        "course_no": "BIOT F417",
+        "course_title": "BIOMOLECULAR MODELING",
+        "credit": "3",
+        "instructor_in_charge": "DEBOSTUTI GHOSH",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "DEBOSTUTI GHOSH",
+                "room": "335",
+                "slots": [
+                    "M12",
+                    "T3"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "09.04.2025 FN",
+        "compre": "27.05.2025 AN"
+    },
+    "BIOT F422": {
+        "course_code": 1377,
+        "course_no": "BIOT F422",
+        "course_title": "NANOBIOTECHNOLOGY",
+        "credit": "3",
+        "instructor_in_charge": "PALLAB SANPUI",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "PALLAB SANPUI",
+                "room": "223",
+                "slots": [
+                    "W12",
+                    "Th6"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "04.04.2025 FN",
+        "compre": "04.06.2025 FN"
+    },
+    "BIOT F423": {
+        "course_code": 1378,
+        "course_no": "BIOT F423",
+        "course_title": "DRUG DESIGN AND DELIVERY",
+        "credit": "3",
+        "instructor_in_charge": "SHRIKANT CHARDE",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "SHRIKANT CHARDE",
+                "room": "205",
+                "slots": [
+                    "T45",
+                    "Th6"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "04.04.2025 FN",
+        "compre": "04.06.2025 FN"
+    },
+    "BIOT F491": {
+        "course_code": 1844,
+        "course_no": "BIOT F491",
+        "course_title": "SPECIAL PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "MAINAK DUTTA",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "BITS C791T": {
+        "course_code": 596,
+        "course_no": "BITS C791T",
+        "course_title": "TEACHING PRACTICE I",
+        "credit": "1",
+        "instructor_in_charge": "S RAMACHANDRAN",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "BITS C797T": {
+        "course_code": 520,
+        "course_no": "BITS C797T",
+        "course_title": "PH D SEMINAR",
+        "credit": "2",
+        "instructor_in_charge": "S RAMACHANDRAN",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "BITS C799T": {
+        "course_code": 553,
+        "course_no": "BITS C799T",
+        "course_title": "PH D THESIS",
+        "credit": "0",
+        "instructor_in_charge": "S RAMACHANDRAN",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "BITS E661": {
+        "course_code": 2101,
+        "course_no": "BITS E661",
+        "course_title": "RESEARCH METHODOLOGY I",
+        "credit": "5",
+        "instructor_in_charge": "S RAMACHANDRAN",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "BITS F110": {
+        "course_code": 1003,
+        "course_no": "BITS F110",
+        "course_title": "ENGINEERING GRAPHICS",
+        "credit": "2",
+        "instructor_in_charge": "MEGHANA S CHARDE",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "Meghana S Charde",
+                "room": "101",
+                "slots": [
+                    "Th1"
+                ]
+            },
+            {
+                "section": "L2",
+                "instructor": "Deepthi Mary Dilip",
+                "room": "105",
+                "slots": [
+                    "W1"
+                ]
+            },
+            {
+                "section": "L3",
+                "instructor": "Meghana S Charde",
+                "room": "123",
+                "slots": [
+                    "M9"
+                ]
+            },
+            {
+                "section": "L4",
+                "instructor": "Akshay Venkateshwaran",
+                "room": "165",
+                "slots": [
+                    "W8"
+                ]
+            }
+        ],
+        "practical_sections": [
+            {
+                "section": "P1",
+                "instructor": "Meghana S Charde",
+                "room": "336",
+                "slots": [
+                    "M34"
+                ]
+            },
+            {
+                "section": "P2",
+                "instructor": "Deepthi Mary Dilip",
+                "room": "336",
+                "slots": [
+                    "T23"
+                ]
+            },
+            {
+                "section": "P3",
+                "instructor": "Meghana S Charde",
+                "room": "336",
+                "slots": [
+                    "W23"
+                ]
+            },
+            {
+                "section": "P4",
+                "instructor": "Akshay Venkateshwaran",
+                "room": "336",
+                "slots": [
+                    "Th12"
+                ]
+            }
+        ],
+        "midsem": "08.04.2025 FN",
+        "compre": "04.06.2025 FN"
+    },
+    "BITS F111": {
+        "course_code": 1004,
+        "course_no": "BITS F111",
+        "course_title": "THERMODYNAMICS",
+        "credit": "3",
+        "instructor_in_charge": "SNEHAUNSHU CHOUDHURY",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "Shashank Khurana",
+                "room": "184",
+                "slots": [
+                    "M5",
+                    "W78",
+                    "Th2"
+                ]
+            },
+            {
+                "section": "L2",
+                "instructor": "Majid H Khan",
+                "room": "185",
+                "slots": [
+                    "M3",
+                    "T89",
+                    "Th8"
+                ]
+            },
+            {
+                "section": "L3",
+                "instructor": "Ravindra G Bhardwaj",
+                "room": "189",
+                "slots": [
+                    "M7",
+                    "W7",
+                    "Th45"
+                ]
+            },
+            {
+                "section": "L4",
+                "instructor": "Snehaunshu Choudhury",
+                "room": "190",
+                "slots": [
+                    "T23",
+                    "W78"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "03.04.2025 FN",
+        "compre": "28.05.2025 FN"
+    },
+    "BITS F112": {
+        "course_code": 1005,
+        "course_no": "BITS F112",
+        "course_title": "TECHNICAL REPORT WRITING",
+        "credit": "2",
+        "instructor_in_charge": "SAYANTAN CHAKRABORTY",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "Shazi S J",
+                "room": "101",
+                "slots": [
+                    "M4",
+                    "T9"
+                ]
+            },
+            {
+                "section": "L2",
+                "instructor": "Sayantan Chakraborty",
+                "room": "105",
+                "slots": [
+                    "Th12"
+                ]
+            },
+            {
+                "section": "L3",
+                "instructor": "Shazi S J",
+                "room": "123",
+                "slots": [
+                    "Th89"
+                ]
+            },
+            {
+                "section": "L4",
+                "instructor": "Sayantan Chakraborty",
+                "room": "165",
+                "slots": [
+                    "T45"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "07.04.2025 FN",
+        "compre": "26.05.2025 FN"
+    },
+    "BITS F121": {
+        "course_code": 2731,
+        "course_no": "BITS F121",
+        "course_title": "INTRODUCTION TO PYTHON",
+        "credit": "3",
+        "instructor_in_charge": "YUSRA QAMAR",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "YUSRA QAMAR",
+                "room": "183",
+                "slots": [
+                    "W56",
+                    "Th23"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "03.04.2025 FN",
+        "compre": "28.05.2025 FN"
+    },
+    "BITS F122": {
+        "course_code": 2732,
+        "course_no": "BITS F122",
+        "course_title": "INTRODUCTION TO SPREADSHEET ANALYSIS",
+        "credit": "2",
+        "instructor_in_charge": "RAJA SACHIDANANDAM",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "RAJA SACHIDANANDAM",
+                "room": "183",
+                "slots": [
+                    "M56",
+                    "T8"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "02.04.2025 FN",
+        "compre": "26.05.2025 FN"
+    },
+    "BITS F123": {
+        "course_code": 2733,
+        "course_no": "BITS F123",
+        "course_title": "INTRODUCTION TO ENGINEERING",
+        "credit": "3",
+        "instructor_in_charge": "CHAKRADHAR IYYUNNI",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "CHAKRADHAR IYYUNNI",
+                "room": "183",
+                "slots": [
+                    "M23",
+                    "F23"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "02.04.2025 AN",
+        "compre": "30.05.2025 FN"
+    },
+    "BITS F225": {
+        "course_code": 1632,
+        "course_no": "BITS F225",
+        "course_title": "ENVIRONMENTAL STUDIES",
+        "credit": "3",
+        "instructor_in_charge": "VIJAYA ILANGO",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "Dipika Barbadikar",
+                "room": "267",
+                "slots": [
+                    "T6",
+                    "W34"
+                ]
+            },
+            {
+                "section": "L2",
+                "instructor": "Vijay Lakshmi Mishra",
+                "room": "268",
+                "slots": [
+                    "T6",
+                    "W34"
+                ]
+            },
+            {
+                "section": "L3",
+                "instructor": "Dipika Barbadikar",
+                "room": "269",
+                "slots": [
+                    "W7",
+                    "F12"
+                ]
+            },
+            {
+                "section": "L4",
+                "instructor": "Vijay Lakshmi Mishra",
+                "room": "257",
+                "slots": [
+                    "W7",
+                    "F12"
+                ]
+            },
+            {
+                "section": "L5",
+                "instructor": "Vijaya Ilango",
+                "room": "183",
+                "slots": [
+                    "W23",
+                    "Th5"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "04.04.2025 FN",
+        "compre": "04.06.2025 FN"
+    },
+    "BITS F226": {
+        "course_code": 2303,
+        "course_no": "BITS F226",
+        "course_title": "SOFT SKILLS FOR PROFESSIONALS",
+        "credit": "3",
+        "instructor_in_charge": "JISS VARGHESE MATHEW",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "JISS VARGHESE MATHEW",
+                "room": "223",
+                "slots": [
+                    "M89",
+                    "Th5"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "09.04.2025 AN",
+        "compre": "03.06.2025 AN"
+    },
+    "BITS F312": {
+        "course_code": 1334,
+        "course_no": "BITS F312",
+        "course_title": "NEURAL NET & FUZZY LOGIC",
+        "credit": "3",
+        "instructor_in_charge": "V KALAICHELVI",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "V KALAICHELVI",
+                "room": "222",
+                "slots": [
+                    "W5",
+                    "Th89"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "07.04.2025 FN",
+        "compre": "30.05.2025 FN"
+    },
+    "BITS F320": {
+        "course_code": 1785,
+        "course_no": "BITS F320",
+        "course_title": "MANAGERIAL SKILLS",
+        "credit": "2",
+        "instructor_in_charge": "JISS VARGHESE MATHEW",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "JISS VARGHESE MATHEW",
+                "room": "271",
+                "slots": [
+                    "M5",
+                    "W89"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "02.04.2025 FN",
+        "compre": "29.05.2025 FN"
+    },
+    "BITS F412": {
+        "course_code": 1592,
+        "course_no": "BITS F412",
+        "course_title": "PRACTICE SCHOOL II",
+        "credit": "0",
+        "instructor_in_charge": "GOMATHI BHAVANI",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "BITS F416": {
+        "course_code": 1808,
+        "course_no": "BITS F416",
+        "course_title": "INTRO TO NANOSCIENCE",
+        "credit": "3",
+        "instructor_in_charge": "K K SINGH",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "K K SINGH",
+                "room": "271",
+                "slots": [
+                    "T89",
+                    "W6"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "03.04.2025 FN",
+        "compre": "03.06.2025 FN"
+    },
+    "BITS F421T": {
+        "course_code": 1593,
+        "course_no": "BITS F421T",
+        "course_title": "THESIS",
+        "credit": "6",
+        "instructor_in_charge": "A SOMASUNDARAM",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "BITS F423T": {
+        "course_code": 1617,
+        "course_no": "BITS F423T",
+        "course_title": "THESIS",
+        "credit": "9",
+        "instructor_in_charge": "A SOMASUNDARAM",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "BITS F441T": {
+        "course_code": 1629,
+        "course_no": "BITS F441T",
+        "course_title": "SEMINAR",
+        "credit": "1",
+        "instructor_in_charge": "S RAMACHANDRAN",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "BITS F463": {
+        "course_code": 1338,
+        "course_no": "BITS F463",
+        "course_title": "CRYPTOGRAPHY",
+        "credit": "3",
+        "instructor_in_charge": "RAJA M",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "RAJA M",
+                "room": "222",
+                "slots": [
+                    "T34",
+                    "F5"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "04.04.2025 FN",
+        "compre": "04.06.2025 FN"
+    },
+    "BITS F464": {
+        "course_code": 1339,
+        "course_no": "BITS F464",
+        "course_title": "MACHINE LEARNING",
+        "credit": "3",
+        "instructor_in_charge": "PRANAV M PAWAR",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "PRANAV M PAWAR",
+                "room": "210",
+                "slots": [
+                    "T34",
+                    "F5"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "04.04.2025 FN",
+        "compre": "04.06.2025 FN"
+    },
+    "CE F241": {
+        "course_code": 1191,
+        "course_no": "CE F241",
+        "course_title": "ANALYSIS OF STRUCTURES",
+        "credit": "3",
+        "instructor_in_charge": "VIVEK B KARTHA",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "VIVEK B KARTHA",
+                "room": "219",
+                "slots": [
+                    "M12",
+                    "W34"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "02.04.2025 AN",
+        "compre": "26.05.2025 AN"
+    },
+    "CE F242": {
+        "course_code": 1192,
+        "course_no": "CE F242",
+        "course_title": "CONSTRUCTION PLAN & TECH",
+        "credit": "3",
+        "instructor_in_charge": "MEGHANA S CHARDE",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "MEGHANA S CHARDE",
+                "room": "219",
+                "slots": [
+                    "T12",
+                    "F45"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "03.04.2025 AN",
+        "compre": "29.05.2025 AN"
+    },
+    "CE F243": {
+        "course_code": 1193,
+        "course_no": "CE F243",
+        "course_title": "SOIL MECHANICS",
+        "credit": "4",
+        "instructor_in_charge": "VIVEK B KARTHA",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "VIVEK B KARTHA",
+                "room": "219",
+                "slots": [
+                    "T34",
+                    "Th89"
+                ]
+            }
+        ],
+        "practical_sections": [
+            {
+                "section": "P1",
+                "instructor": "Deepthi Mary Dilip",
+                "room": "MF5",
+                "slots": [
+                    "W67"
+                ]
+            }
+        ],
+        "midsem": "07.04.2025 AN",
+        "compre": "28.05.2025 AN"
+    },
+    "CE F244": {
+        "course_code": 1194,
+        "course_no": "CE F244",
+        "course_title": "HIGHWAY ENGINEERING",
+        "credit": "4",
+        "instructor_in_charge": "DEEPTHI MARY DILIP",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "DEEPTHI MARY DILIP",
+                "room": "219",
+                "slots": [
+                    "Th12",
+                    "F23"
+                ]
+            }
+        ],
+        "practical_sections": [
+            {
+                "section": "P1",
+                "instructor": "Deepthi Mary Dilip",
+                "room": "MF5",
+                "slots": [
+                    "T67"
+                ]
+            }
+        ],
+        "midsem": "08.04.2025 AN",
+        "compre": "02.06.2025 AN"
+    },
+    "CE F266": {
+        "course_code": 1652,
+        "course_no": "CE F266",
+        "course_title": "STUDY PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "BRIJ KISHORE PANDEY",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "CE F321": {
+        "course_code": 2282,
+        "course_no": "CE F321",
+        "course_title": "ENGINEERING HYDROLOGY",
+        "credit": "3",
+        "instructor_in_charge": "BRIJ KISHORE PANDEY",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "BRIJ KISHORE PANDEY",
+                "room": "276",
+                "slots": [
+                    "T12",
+                    "F45"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "02.04.2025 AN",
+        "compre": "26.05.2025 AN"
+    },
+    "CE F342": {
+        "course_code": 1199,
+        "course_no": "CE F342",
+        "course_title": "WATER & WASTEWATER TREAT",
+        "credit": "4",
+        "instructor_in_charge": "BRIJ KISHORE PANDEY",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "BRIJ KISHORE PANDEY",
+                "room": "276",
+                "slots": [
+                    "W23",
+                    "Th12"
+                ]
+            }
+        ],
+        "practical_sections": [
+            {
+                "section": "P1",
+                "instructor": "Brij Kishore Pandey",
+                "room": "306",
+                "slots": [
+                    "Th56"
+                ]
+            }
+        ],
+        "midsem": "03.04.2025 AN",
+        "compre": "02.06.2025 AN"
+    },
+    "CE F343": {
+        "course_code": 1200,
+        "course_no": "CE F343",
+        "course_title": "DESIGN OF STEEL STRUCTURES",
+        "credit": "3",
+        "instructor_in_charge": "AKSHAY VENKATESHWARAN",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "AKSHAY VENKATESHWARAN",
+                "room": "276",
+                "slots": [
+                    "M12",
+                    "T34"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "07.04.2025 AN",
+        "compre": "28.05.2025 AN"
+    },
+    "CE F366": {
+        "course_code": 1667,
+        "course_no": "CE F366",
+        "course_title": "LABORATORY PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "BRIJ KISHORE PANDEY",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "CE F376": {
+        "course_code": 1686,
+        "course_no": "CE F376",
+        "course_title": "DESIGN PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "BRIJ KISHORE PANDEY",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "CE F415": {
+        "course_code": 1223,
+        "course_no": "CE F415",
+        "course_title": "DESIGN OF PRESTRESSED CONCRETE\nSTRUCTURES",
+        "credit": "3",
+        "instructor_in_charge": "AKSHAY VENKATESHWARAN",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "AKSHAY VENKATESHWARAN",
+                "room": "276",
+                "slots": [
+                    "M6",
+                    "F23"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "09.04.2025 FN",
+        "compre": "27.05.2025 AN"
+    },
+    "CE F434": {
+        "course_code": 1236,
+        "course_no": "CE F434",
+        "course_title": "ENVIRONMENTAL IMPACT ASSESSMENT",
+        "credit": "3",
+        "instructor_in_charge": "VIVEK B KARTHA",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "VIVEK B KARTHA",
+                "room": "276",
+                "slots": [
+                    "M89",
+                    "Th3"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "04.04.2025 FN",
+        "compre": "04.06.2025 FN"
+    },
+    "CE F491": {
+        "course_code": 1711,
+        "course_no": "CE F491",
+        "course_title": "SPECIAL PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "BRIJ KISHORE PANDEY",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "CHE F241": {
+        "course_code": 1180,
+        "course_no": "CHE F241",
+        "course_title": "HEAT TRANSFER",
+        "credit": "3",
+        "instructor_in_charge": "NISHANT H PANDYA",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "NISHANT H PANDYA",
+                "room": "245",
+                "slots": [
+                    "T12",
+                    "F34"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "02.04.2025 AN",
+        "compre": "26.05.2025 AN"
+    },
+    "CHE F242": {
+        "course_code": 1181,
+        "course_no": "CHE F242",
+        "course_title": "NUM METHOD FOR CHEM ENGG",
+        "credit": "3",
+        "instructor_in_charge": "SOUVIK K PAUL",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "SOUVIK K PAUL",
+                "room": "245",
+                "slots": [
+                    "W78",
+                    "F12"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "03.04.2025 AN",
+        "compre": "29.05.2025 AN"
+    },
+    "CHE F243": {
+        "course_code": 1182,
+        "course_no": "CHE F243",
+        "course_title": "MATERIAL SCIENCE & ENGG",
+        "credit": "3",
+        "instructor_in_charge": "MURCHANA CHANGMAI",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "MURCHANA CHANGMAI",
+                "room": "245",
+                "slots": [
+                    "T56",
+                    "W45"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "07.04.2025 AN",
+        "compre": "28.05.2025 AN"
+    },
+    "CHE F244": {
+        "course_code": 1183,
+        "course_no": "CHE F244",
+        "course_title": "SEPARATION PROCESSES I",
+        "credit": "3",
+        "instructor_in_charge": "B G PRAKASH KUMAR",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "B G PRAKASH KUMAR",
+                "room": "245",
+                "slots": [
+                    "M12",
+                    "W12"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "08.04.2025 AN",
+        "compre": "02.06.2025 AN"
+    },
+    "CHE F266": {
+        "course_code": 1653,
+        "course_no": "CHE F266",
+        "course_title": "STUDY PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "MURCHANA CHANGMAI",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "CHE F341": {
+        "course_code": 1188,
+        "course_no": "CHE F341",
+        "course_title": "CHEMICAL ENGG LAB II",
+        "credit": "3",
+        "instructor_in_charge": "NISHANT H PANDYA/ Murchana Changmai/ B G Prakashkumar/ Souvik K Paul",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "NISHANT H PANDYA/ Murchana Changmai/ B G Prakashkumar/ Souvik K Paul",
+                "room": "329",
+                "slots": [
+                    "M789"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "CHE F342": {
+        "course_code": 1189,
+        "course_no": "CHE F342",
+        "course_title": "PROCESS DYN & CONTROL",
+        "credit": "3",
+        "instructor_in_charge": "R SWARNALATHA",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "R SWARNALATHA",
+                "room": "256",
+                "slots": [
+                    "W34",
+                    "F12"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "03.04.2025 AN",
+        "compre": "02.06.2025 AN"
+    },
+    "CHE F343": {
+        "course_code": 1190,
+        "course_no": "CHE F343",
+        "course_title": "PROCESS DES PRINCIPLE II",
+        "credit": "3",
+        "instructor_in_charge": "NISHANT H PANDYA",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "NISHANT H PANDYA",
+                "room": "256",
+                "slots": [
+                    "M23",
+                    "T56"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "07.04.2025 AN",
+        "compre": "28.05.2025 AN"
+    },
+    "CHE F366": {
+        "course_code": 1668,
+        "course_no": "CHE F366",
+        "course_title": "LABORATORY PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "MURCHANA CHANGMAI",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "CHE F367": {
+        "course_code": 1738,
+        "course_no": "CHE F367",
+        "course_title": "LABORATORY PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "MURCHANA CHANGMAI",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "CHE F376": {
+        "course_code": 1687,
+        "course_no": "CHE F376",
+        "course_title": "DESIGN PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "MURCHANA CHANGMAI",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "CHE F377": {
+        "course_code": 1754,
+        "course_no": "CHE F377",
+        "course_title": "DESIGN PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "MURCHANA CHANGMAI",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "CHE F411": {
+        "course_code": 1206,
+        "course_no": "CHE F411",
+        "course_title": "ENVIR POLLUTION CONTROL",
+        "credit": "3",
+        "instructor_in_charge": "MURCHANA CHANGMAI",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "MURCHANA CHANGMAI",
+                "room": "256",
+                "slots": [
+                    "T12",
+                    "F4"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "04.04.2025 FN",
+        "compre": "04.06.2025 FN"
+    },
+    "CHE F414": {
+        "course_code": 1201,
+        "course_no": "CHE F414",
+        "course_title": "TRANSPORT PHENOMENA",
+        "credit": "3",
+        "instructor_in_charge": "SOUVIK K PAUL",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "SOUVIK K PAUL",
+                "room": "256",
+                "slots": [
+                    "W12",
+                    "F5"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "09.04.2025 FN",
+        "compre": "27.05.2025 AN"
+    },
+    "CHE F491": {
+        "course_code": 1209,
+        "course_no": "CHE F491",
+        "course_title": "SPECIAL PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "MURCHANA CHANGMAI",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "CHEM F110": {
+        "course_code": 1006,
+        "course_no": "CHEM F110",
+        "course_title": "CHEMISTRY LABORATORY",
+        "credit": "1",
+        "instructor_in_charge": "VIJAYA ILANGO",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "Dipika Barbadikar",
+                "room": "306",
+                "slots": [
+                    "M34"
+                ]
+            },
+            {
+                "section": "L2",
+                "instructor": "Dipika Barbadikar",
+                "room": "306",
+                "slots": [
+                    "M89"
+                ]
+            },
+            {
+                "section": "L3",
+                "instructor": "Vijay Lakshmi Mishra",
+                "room": "306",
+                "slots": [
+                    "T23"
+                ]
+            },
+            {
+                "section": "L4",
+                "instructor": "Vijay Lakshmi Mishra",
+                "room": "306",
+                "slots": [
+                    "T89"
+                ]
+            },
+            {
+                "section": "L5",
+                "instructor": "Rusal Raj",
+                "room": "306",
+                "slots": [
+                    "W34"
+                ]
+            },
+            {
+                "section": "L6",
+                "instructor": "Vijay Lakshmi Mishra",
+                "room": "306",
+                "slots": [
+                    "Th23"
+                ]
+            },
+            {
+                "section": "L7",
+                "instructor": "Dipika Barbadikar",
+                "room": "306",
+                "slots": [
+                    "Th89"
+                ]
+            },
+            {
+                "section": "L8",
+                "instructor": "Vijaya Ilango",
+                "room": "306",
+                "slots": [
+                    "F45"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "CHEM F111": {
+        "course_code": 1007,
+        "course_no": "CHEM F111",
+        "course_title": "GENERAL CHEMISTRY",
+        "credit": "3",
+        "instructor_in_charge": "RUSAL RAJ",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "RUSAL RAJ",
+                "room": "101",
+                "slots": [
+                    "M3",
+                    "T4",
+                    "W78"
+                ]
+            },
+            {
+                "section": "L2",
+                "instructor": "Geetha Kannan",
+                "room": "105",
+                "slots": [
+                    "M12",
+                    "F45"
+                ]
+            },
+            {
+                "section": "L3",
+                "instructor": "Vijaya Ilango",
+                "room": "123",
+                "slots": [
+                    "T34",
+                    "W7",
+                    "F1"
+                ]
+            },
+            {
+                "section": "L4",
+                "instructor": "Rusal Raj",
+                "room": "165",
+                "slots": [
+                    "M7",
+                    "Th1",
+                    "F12"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "03.04.2025 FN",
+        "compre": "28.05.2025 FN"
+    },
+    "CHEM F266": {
+        "course_code": 1654,
+        "course_no": "CHEM F266",
+        "course_title": "STUDY PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "K K SINGH",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "CHEM F366": {
+        "course_code": 1669,
+        "course_no": "CHEM F366",
+        "course_title": "LABORATORY PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "K K SINGH",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "CHEM F367": {
+        "course_code": 1739,
+        "course_no": "CHEM F367",
+        "course_title": "LABORATORY PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "K K SINGH",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "CHEM F376": {
+        "course_code": 1688,
+        "course_no": "CHEM F376",
+        "course_title": "DESIGN PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "K K SINGH",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "CHEM F377": {
+        "course_code": 1755,
+        "course_no": "CHEM F377",
+        "course_title": "DESIGN PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "K K SINGH",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "CHEM F491": {
+        "course_code": 1713,
+        "course_no": "CHEM F491",
+        "course_title": "SPECIAL PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "K K SINGH",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "CS F111": {
+        "course_code": 1008,
+        "course_no": "CS F111",
+        "course_title": "COMPUTER PROGRAMMING",
+        "credit": "4",
+        "instructor_in_charge": "SAPNA SADHWANI",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "Tojo Mathew",
+                "room": "101",
+                "slots": [
+                    "M78",
+                    "T5",
+                    "W5"
+                ]
+            },
+            {
+                "section": "L2",
+                "instructor": "Neena Susan",
+                "room": "105",
+                "slots": [
+                    "M34",
+                    "W78"
+                ]
+            },
+            {
+                "section": "L3",
+                "instructor": "Shalakha",
+                "room": "123",
+                "slots": [
+                    "Th34",
+                    "F45"
+                ]
+            },
+            {
+                "section": "L4",
+                "instructor": "Sapna Sadhwani",
+                "room": "165",
+                "slots": [
+                    "M12",
+                    "W45"
+                ]
+            }
+        ],
+        "practical_sections": [
+            {
+                "section": "P1",
+                "instructor": "Shalakha",
+                "room": "333",
+                "slots": [
+                    "M89"
+                ]
+            },
+            {
+                "section": "P2",
+                "instructor": "Neena Susan",
+                "room": "333",
+                "slots": [
+                    "T23"
+                ]
+            },
+            {
+                "section": "P3",
+                "instructor": "Shalakha",
+                "room": "333",
+                "slots": [
+                    "W89"
+                ]
+            },
+            {
+                "section": "P4",
+                "instructor": "Sapna Sadhwani",
+                "room": "333",
+                "slots": [
+                    "Th34"
+                ]
+            }
+        ],
+        "midsem": "02.04.2025 FN",
+        "compre": "03.06.2025 FN"
+    },
+    "CS F211": {
+        "course_code": 1094,
+        "course_no": "CS F211",
+        "course_title": "DATA STRUCTURES & ALGO",
+        "credit": "4",
+        "instructor_in_charge": "TOJO MATHEW",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "Ashish Gupta",
+                "room": "267",
+                "slots": [
+                    "Th12",
+                    "F12"
+                ]
+            },
+            {
+                "section": "L2",
+                "instructor": "Neena Susan",
+                "room": "268",
+                "slots": [
+                    "W12",
+                    "Th34"
+                ]
+            },
+            {
+                "section": "L3",
+                "instructor": "Tojo Mathew",
+                "room": "269",
+                "slots": [
+                    "W12",
+                    "Th34"
+                ]
+            },
+            {
+                "section": "L4",
+                "instructor": "Sujala D Shetty",
+                "room": "257",
+                "slots": [
+                    "M56",
+                    "W12"
+                ]
+            }
+        ],
+        "practical_sections": [
+            {
+                "section": "P1",
+                "instructor": "Shalakha",
+                "room": "333",
+                "slots": [
+                    "M34"
+                ]
+            },
+            {
+                "section": "P2",
+                "instructor": "Neena Susan",
+                "room": "333",
+                "slots": [
+                    "T89"
+                ]
+            },
+            {
+                "section": "P3",
+                "instructor": "Ashish Gupta",
+                "room": "333",
+                "slots": [
+                    "W56"
+                ]
+            },
+            {
+                "section": "P4",
+                "instructor": "Sujala D Shetty",
+                "room": "333",
+                "slots": [
+                    "Th89"
+                ]
+            }
+        ],
+        "midsem": "08.04.2025 AN",
+        "compre": "02.06.2025 AN"
+    },
+    "CS F212": {
+        "course_code": 1095,
+        "course_no": "CS F212",
+        "course_title": "DATABASE SYSTEMS",
+        "credit": "4",
+        "instructor_in_charge": "B VIJAYAKUMAR",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "Tamizharasan Periyasamy",
+                "room": "267",
+                "slots": [
+                    "M56",
+                    "Th89"
+                ]
+            },
+            {
+                "section": "L2",
+                "instructor": "Sapna Sadhwani",
+                "room": "268",
+                "slots": [
+                    "M56",
+                    "F12"
+                ]
+            },
+            {
+                "section": "L3",
+                "instructor": "Shalakha",
+                "room": "269",
+                "slots": [
+                    "T34",
+                    "W34"
+                ]
+            },
+            {
+                "section": "L4",
+                "instructor": "B Vijayakumar",
+                "room": "257",
+                "slots": [
+                    "T34",
+                    "Th23"
+                ]
+            }
+        ],
+        "practical_sections": [
+            {
+                "section": "P1",
+                "instructor": "B Vijayakumar",
+                "room": "335",
+                "slots": [
+                    "M34"
+                ]
+            },
+            {
+                "section": "P2",
+                "instructor": "Sapna Sadhwani",
+                "room": "335",
+                "slots": [
+                    "T89"
+                ]
+            },
+            {
+                "section": "P3",
+                "instructor": "Tamizharasan Periyasamy",
+                "room": "335",
+                "slots": [
+                    "W56"
+                ]
+            },
+            {
+                "section": "P4",
+                "instructor": "Shalakha",
+                "room": "335",
+                "slots": [
+                    "Th89"
+                ]
+            }
+        ],
+        "midsem": "03.04.2025 AN",
+        "compre": "29.05.2025 AN"
+    },
+    "CS F241": {
+        "course_code": 1313,
+        "course_no": "CS F241",
+        "course_title": "MICROPROC & INTERFACING",
+        "credit": "4",
+        "instructor_in_charge": "SHAZIA HASAN",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "Shazia Hasan",
+                "room": "267",
+                "slots": [
+                    "T34",
+                    "Th34"
+                ]
+            },
+            {
+                "section": "L2",
+                "instructor": "Jagadish Nayak",
+                "room": "268",
+                "slots": [
+                    "T89",
+                    "Th12"
+                ]
+            },
+            {
+                "section": "L3",
+                "instructor": "Ananth Bhardwaj",
+                "room": "269",
+                "slots": [
+                    "M56",
+                    "Th12"
+                ]
+            },
+            {
+                "section": "L4",
+                "instructor": "Ananth Bhardwaj",
+                "room": "257",
+                "slots": [
+                    "T12",
+                    "W34"
+                ]
+            },
+            {
+                "section": "L5",
+                "instructor": "Jagadish Nayak",
+                "room": "228",
+                "slots": [
+                    "T23",
+                    "Th78"
+                ]
+            }
+        ],
+        "practical_sections": [
+            {
+                "section": "P1",
+                "instructor": "Jagadish Nayak",
+                "room": "332",
+                "slots": [
+                    "M34"
+                ]
+            },
+            {
+                "section": "P2",
+                "instructor": "Vilas H Gaidhane",
+                "room": "332",
+                "slots": [
+                    "T34"
+                ]
+            },
+            {
+                "section": "P3",
+                "instructor": "Shazia Hasan",
+                "room": "332",
+                "slots": [
+                    "T89"
+                ]
+            },
+            {
+                "section": "P4",
+                "instructor": "Adarsh Venkataraman",
+                "room": "332",
+                "slots": [
+                    "W34"
+                ]
+            },
+            {
+                "section": "P5",
+                "instructor": "Ananth Bhardwaj",
+                "room": "332",
+                "slots": [
+                    "W89"
+                ]
+            },
+            {
+                "section": "P6",
+                "instructor": "Nilesh Goel",
+                "room": "332",
+                "slots": [
+                    "Th89"
+                ]
+            }
+        ],
+        "midsem": "02.04.2025 AN",
+        "compre": "26.05.2025 AN"
+    },
+    "CS F266": {
+        "course_code": 1655,
+        "course_no": "CS F266",
+        "course_title": "STUDY PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "SUJALA D SHETTY",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "CS F303": {
+        "course_code": 1320,
+        "course_no": "CS F303",
+        "course_title": "COMPUTER NETWORKS",
+        "credit": "4",
+        "instructor_in_charge": "RAJA M",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "Pranav M Pawar",
+                "room": "210",
+                "slots": [
+                    "M12",
+                    "Th56"
+                ]
+            },
+            {
+                "section": "L2",
+                "instructor": "Raja M",
+                "room": "222",
+                "slots": [
+                    "W3",
+                    "Th12",
+                    "F3"
+                ]
+            },
+            {
+                "section": "L3",
+                "instructor": "Mithun Mukherjee",
+                "room": "226",
+                "slots": [
+                    "T12",
+                    "W3",
+                    "Th1"
+                ]
+            },
+            {
+                "section": "L4",
+                "instructor": "Pranav M Pawar",
+                "room": "229",
+                "slots": [
+                    "M89",
+                    "F12"
+                ]
+            }
+        ],
+        "practical_sections": [
+            {
+                "section": "P1",
+                "instructor": "Raja M",
+                "room": "336",
+                "slots": [
+                    "M89"
+                ]
+            },
+            {
+                "section": "P2",
+                "instructor": "Mithun Mukherjee",
+                "room": "336",
+                "slots": [
+                    "T56"
+                ]
+            },
+            {
+                "section": "P3",
+                "instructor": "Raja M",
+                "room": "336",
+                "slots": [
+                    "Th56"
+                ]
+            },
+            {
+                "section": "P4",
+                "instructor": "Mithun Mukherjee",
+                "room": "336",
+                "slots": [
+                    "F34"
+                ]
+            }
+        ],
+        "midsem": "02.04.2025 AN",
+        "compre": "26.05.2025 AN"
+    },
+    "CS F316": {
+        "course_code": 2438,
+        "course_no": "CS F316",
+        "course_title": "QUANTUM ARCHITECTURE AND PROGRAMMING",
+        "credit": "3",
+        "instructor_in_charge": "TAMIZHARASAN PERIYASAMY",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "TAMIZHARASAN PERIYASAMY",
+                "room": "226",
+                "slots": [
+                    "T34",
+                    "F5"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "04.04.2025 FN",
+        "compre": "04.06.2025 FN"
+    },
+    "CS F320": {
+        "course_code": 2266,
+        "course_no": "CS F320",
+        "course_title": "FOUNDATION OF DATA SCIENCE",
+        "credit": "3",
+        "instructor_in_charge": "ASHISH GUPTA",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "ASHISH GUPTA",
+                "room": "210",
+                "slots": [
+                    "M34",
+                    "Th4"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "09.04.2025 FN",
+        "compre": "27.05.2025 AN"
+    },
+    "CS F363": {
+        "course_code": 1318,
+        "course_no": "CS F363",
+        "course_title": "COMPILER CONSTRUCTION",
+        "credit": "3",
+        "instructor_in_charge": "ANGEL ARUL JOTHI",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "Angel Arul Jothi",
+                "room": "210",
+                "slots": [
+                    "T56",
+                    "Th1"
+                ]
+            },
+            {
+                "section": "L2",
+                "instructor": "Hussain Chowdhury",
+                "room": "222",
+                "slots": [
+                    "M12",
+                    "W4"
+                ]
+            },
+            {
+                "section": "L3",
+                "instructor": "Hussain Chowdhury",
+                "room": "226",
+                "slots": [
+                    "M6",
+                    "T5",
+                    "Th2"
+                ]
+            },
+            {
+                "section": "L4",
+                "instructor": "Angel Arul Jothi",
+                "room": "229",
+                "slots": [
+                    "T12",
+                    "Th7"
+                ]
+            }
+        ],
+        "practical_sections": [
+            {
+                "section": "P1",
+                "instructor": "Angel Arul Jothi",
+                "room": "335",
+                "slots": [
+                    "M89"
+                ]
+            },
+            {
+                "section": "P2",
+                "instructor": "Elakkiya Rajasekar",
+                "room": "335",
+                "slots": [
+                    "T56"
+                ]
+            },
+            {
+                "section": "P3",
+                "instructor": "Hussain Chowdhury",
+                "room": "335",
+                "slots": [
+                    "Th56"
+                ]
+            },
+            {
+                "section": "P4",
+                "instructor": "B Vijayakumar",
+                "room": "335",
+                "slots": [
+                    "F12"
+                ]
+            }
+        ],
+        "midsem": "03.04.2025 AN",
+        "compre": "02.06.2025 AN"
+    },
+    "CS F364": {
+        "course_code": 1319,
+        "course_no": "CS F364",
+        "course_title": "DESIGN & ANAL OF ALGO",
+        "credit": "3",
+        "instructor_in_charge": "ELAKKIYA RAJASEKAR",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "Hussain Chowdhury",
+                "room": "210",
+                "slots": [
+                    "T12",
+                    "F34"
+                ]
+            },
+            {
+                "section": "L2",
+                "instructor": "Elakkiya Rajasekar",
+                "room": "222",
+                "slots": [
+                    "M89",
+                    "F12"
+                ]
+            },
+            {
+                "section": "L3",
+                "instructor": "Jeyalatha",
+                "room": "226",
+                "slots": [
+                    "M1",
+                    "T7",
+                    "F1",
+                    "F4"
+                ]
+            },
+            {
+                "section": "L4",
+                "instructor": "Elakkiya Rajasekar",
+                "room": "229",
+                "slots": [
+                    "W34",
+                    "Th12"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "08.04.2025 AN",
+        "compre": "29.05.2025 AN"
+    },
+    "CS F366": {
+        "course_code": 1670,
+        "course_no": "CS F366",
+        "course_title": "LABORATORY PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "SUJALA D SHETTY",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "CS F367": {
+        "course_code": 1740,
+        "course_no": "CS F367",
+        "course_title": "LABORATORY PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "SUJALA D SHETTY",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "CS F376": {
+        "course_code": 1689,
+        "course_no": "CS F376",
+        "course_title": "DESIGN PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "SUJALA D SHETTY",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "CS F377": {
+        "course_code": 1756,
+        "course_no": "CS F377",
+        "course_title": "DESIGN PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "SUJALA D SHETTY",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "CS F401": {
+        "course_code": 1327,
+        "course_no": "CS F401",
+        "course_title": "MULTIMEDIA COMPUTING",
+        "credit": "3",
+        "instructor_in_charge": "MITHUN MUKHERJEE",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "MITHUN MUKHERJEE",
+                "room": "222",
+                "slots": [
+                    "M34",
+                    "Th4"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "09.04.2025 FN",
+        "compre": "27.05.2025 AN"
+    },
+    "CS F407": {
+        "course_code": 1333,
+        "course_no": "CS F407",
+        "course_title": "ARTIFICIAL INTELLIGENCE",
+        "credit": "3",
+        "instructor_in_charge": "SUJALA D SHETTY",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "SUJALA D SHETTY",
+                "room": "229",
+                "slots": [
+                    "T34",
+                    "F5"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "04.04.2025 FN",
+        "compre": "04.06.2025 FN"
+    },
+    "CS F415": {
+        "course_code": 1322,
+        "course_no": "CS F415",
+        "course_title": "DATA MINING",
+        "credit": "3",
+        "instructor_in_charge": "ANGEL ARUL JOTHI",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "ANGEL ARUL JOTHI",
+                "room": "226",
+                "slots": [
+                    "M34",
+                    "Th4"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "09.04.2025 FN",
+        "compre": "27.05.2025 AN"
+    },
+    "CS F429": {
+        "course_code": 2444,
+        "course_no": "CS F429",
+        "course_title": "NATURAL LANGUAGE PROCESSING",
+        "credit": "3",
+        "instructor_in_charge": "ELAKKIYA RAJASEKAR",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "ELAKKIYA RAJASEKAR",
+                "room": "229",
+                "slots": [
+                    "M34",
+                    "Th4"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "09.04.2025 FN",
+        "compre": "27.05.2025 AN"
+    },
+    "CS F491": {
+        "course_code": 1714,
+        "course_no": "CS F491",
+        "course_title": "SPECIAL PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "SUJALA D SHETTY",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "ECE F241": {
+        "course_code": 1384,
+        "course_no": "ECE F241",
+        "course_title": "MICROPROC & INTERFACING",
+        "credit": "4",
+        "instructor_in_charge": "SHAZIA HASAN",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "Shazia Hasan",
+                "room": "267",
+                "slots": [
+                    "T34",
+                    "Th34"
+                ]
+            },
+            {
+                "section": "L2",
+                "instructor": "Jagadish Nayak",
+                "room": "268",
+                "slots": [
+                    "T89",
+                    "Th12"
+                ]
+            },
+            {
+                "section": "L3",
+                "instructor": "Ananth Bhardwaj",
+                "room": "269",
+                "slots": [
+                    "M56",
+                    "Th12"
+                ]
+            },
+            {
+                "section": "L4",
+                "instructor": "Ananth Bhardwaj",
+                "room": "257",
+                "slots": [
+                    "T12",
+                    "W34"
+                ]
+            },
+            {
+                "section": "L5",
+                "instructor": "Jagadish Nayak",
+                "room": "228",
+                "slots": [
+                    "T23",
+                    "Th78"
+                ]
+            }
+        ],
+        "practical_sections": [
+            {
+                "section": "P1",
+                "instructor": "Jagadish Nayak",
+                "room": "332",
+                "slots": [
+                    "M34"
+                ]
+            },
+            {
+                "section": "P2",
+                "instructor": "Vilas H Gaidhane",
+                "room": "332",
+                "slots": [
+                    "T34"
+                ]
+            },
+            {
+                "section": "P3",
+                "instructor": "Shazia Hasan",
+                "room": "332",
+                "slots": [
+                    "T89"
+                ]
+            },
+            {
+                "section": "P4",
+                "instructor": "Adarsh Venkataraman",
+                "room": "332",
+                "slots": [
+                    "W34"
+                ]
+            },
+            {
+                "section": "P5",
+                "instructor": "Ananth Bhardwaj",
+                "room": "332",
+                "slots": [
+                    "W89"
+                ]
+            },
+            {
+                "section": "P6",
+                "instructor": "Nilesh Goel",
+                "room": "332",
+                "slots": [
+                    "Th89"
+                ]
+            }
+        ],
+        "midsem": "02.04.2025 AN",
+        "compre": "26.05.2025 AN"
+    },
+    "ECE F242": {
+        "course_code": 1385,
+        "course_no": "ECE F242",
+        "course_title": "CONTROL SYSTEMS",
+        "credit": "3",
+        "instructor_in_charge": "VILAS H GAIDHANE",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "VILAS H GAIDHANE",
+                "room": "228",
+                "slots": [
+                    "T78",
+                    "Th12"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "03.04.2025 AN",
+        "compre": "29.05.2025 AN"
+    },
+    "ECE F243": {
+        "course_code": 1386,
+        "course_no": "ECE F243",
+        "course_title": "SIGNALS & SYSTEMS",
+        "credit": "3",
+        "instructor_in_charge": "SHAZIA HASAN",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "SHAZIA HASAN",
+                "room": "228",
+                "slots": [
+                    "M12",
+                    "F45"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "07.04.2025 AN",
+        "compre": "28.05.2025 AN"
+    },
+    "ECE F244": {
+        "course_code": 1387,
+        "course_no": "ECE F244",
+        "course_title": "MICROELECTRONIC CIRCUITS",
+        "credit": "3",
+        "instructor_in_charge": "NILESH GOEL",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "NILESH GOEL",
+                "room": "228",
+                "slots": [
+                    "M34",
+                    "W89"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "08.04.2025 AN",
+        "compre": "02.06.2025 AN"
+    },
+    "ECE F266": {
+        "course_code": 1701,
+        "course_no": "ECE F266",
+        "course_title": "STUDY PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "ABDUL RAZAK",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "ECE F341": {
+        "course_code": 1391,
+        "course_no": "ECE F341",
+        "course_title": "ANALOG ELECTRONICS",
+        "credit": "4",
+        "instructor_in_charge": "VILAS H GAIDHANE",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "VILAS H GAIDHANE",
+                "room": "271",
+                "slots": [
+                    "M12",
+                    "W34"
+                ]
+            }
+        ],
+        "practical_sections": [
+            {
+                "section": "P1",
+                "instructor": "V Kalaichelvi",
+                "room": "304",
+                "slots": [
+                    "F345"
+                ]
+            }
+        ],
+        "midsem": "02.04.2025 AN",
+        "compre": "26.05.2025 AN"
+    },
+    "ECE F343": {
+        "course_code": 1595,
+        "course_no": "ECE F343",
+        "course_title": "COMMUNICATION NETWORKS",
+        "credit": "3",
+        "instructor_in_charge": "ABDUL RAZAK",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "ABDUL RAZAK",
+                "room": "271",
+                "slots": [
+                    "T12",
+                    "F12"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "03.04.2025 AN",
+        "compre": "02.06.2025 AN"
+    },
+    "ECE F344": {
+        "course_code": 1390,
+        "course_no": "ECE F344",
+        "course_title": "INFO THEORY & CODING",
+        "credit": "3",
+        "instructor_in_charge": "ABDUL RAZAK",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "ABDUL RAZAK",
+                "room": "271",
+                "slots": [
+                    "M89",
+                    "T56"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "07.04.2025 AN",
+        "compre": "28.05.2025 AN"
+    },
+    "ECE F366": {
+        "course_code": 1702,
+        "course_no": "ECE F366",
+        "course_title": "LABORATORY PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "ABDUL RAZAK",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "ECE F367": {
+        "course_code": 1705,
+        "course_no": "ECE F367",
+        "course_title": "LABORATORY PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "ABDUL RAZAK",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "ECE F376": {
+        "course_code": 1703,
+        "course_no": "ECE F376",
+        "course_title": "DESIGN PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "ABDUL RAZAK",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "ECE F377": {
+        "course_code": 1706,
+        "course_no": "ECE F377",
+        "course_title": "DESIGN PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "ABDUL RAZAK",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "ECE F472": {
+        "course_code": 1393,
+        "course_no": "ECE F472",
+        "course_title": "SATELLITE COMMUNICATION",
+        "credit": "3",
+        "instructor_in_charge": "ABDUL RAZAK",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "ABDUL RAZAK",
+                "room": "271",
+                "slots": [
+                    "M34",
+                    "Th5"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "09.04.2025 FN",
+        "compre": "27.05.2025 AN"
+    },
+    "ECE F491": {
+        "course_code": 1704,
+        "course_no": "ECE F491",
+        "course_title": "SPECIAL PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "ABDUL RAZAK",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "ECOM F211": {
+        "course_code": 2569,
+        "course_no": "ECOM F211",
+        "course_title": "DATA STRUCTURES & ALGO",
+        "credit": "4",
+        "instructor_in_charge": "TOJO MATHEW",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "Ashish Gupta",
+                "room": "267",
+                "slots": [
+                    "Th12",
+                    "F12"
+                ]
+            },
+            {
+                "section": "L2",
+                "instructor": "Neena Susan",
+                "room": "268",
+                "slots": [
+                    "W12",
+                    "Th34"
+                ]
+            },
+            {
+                "section": "L3",
+                "instructor": "Tojo Mathew",
+                "room": "269",
+                "slots": [
+                    "W12",
+                    "Th34"
+                ]
+            },
+            {
+                "section": "L4",
+                "instructor": "Sujala D Shetty",
+                "room": "257",
+                "slots": [
+                    "M56",
+                    "W12"
+                ]
+            }
+        ],
+        "practical_sections": [
+            {
+                "section": "P1",
+                "instructor": "Shalakha",
+                "room": "333",
+                "slots": [
+                    "M34"
+                ]
+            },
+            {
+                "section": "P2",
+                "instructor": "Neena Susan",
+                "room": "333",
+                "slots": [
+                    "T89"
+                ]
+            },
+            {
+                "section": "P3",
+                "instructor": "Ashish Gupta",
+                "room": "333",
+                "slots": [
+                    "W56"
+                ]
+            },
+            {
+                "section": "P4",
+                "instructor": "Sujala D Shetty",
+                "room": "333",
+                "slots": [
+                    "Th89"
+                ]
+            }
+        ],
+        "midsem": "08.04.2025 AN",
+        "compre": "02.06.2025 AN"
+    },
+    "ECOM F241": {
+        "course_code": 2574,
+        "course_no": "ECOM F241",
+        "course_title": "MICROPROC & INTERFACING",
+        "credit": "4",
+        "instructor_in_charge": "SHAZIA HASAN",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "Shazia Hasan",
+                "room": "267",
+                "slots": [
+                    "T34",
+                    "Th34"
+                ]
+            },
+            {
+                "section": "L2",
+                "instructor": "Jagadish Nayak",
+                "room": "268",
+                "slots": [
+                    "T89",
+                    "Th12"
+                ]
+            },
+            {
+                "section": "L3",
+                "instructor": "Ananth Bhardwaj",
+                "room": "269",
+                "slots": [
+                    "M56",
+                    "Th12"
+                ]
+            },
+            {
+                "section": "L4",
+                "instructor": "Ananth Bhardwaj",
+                "room": "257",
+                "slots": [
+                    "T12",
+                    "W34"
+                ]
+            },
+            {
+                "section": "L5",
+                "instructor": "Jagadish Nayak",
+                "room": "228",
+                "slots": [
+                    "T23",
+                    "Th78"
+                ]
+            }
+        ],
+        "practical_sections": [
+            {
+                "section": "P1",
+                "instructor": "Jagadish Nayak",
+                "room": "332",
+                "slots": [
+                    "M34"
+                ]
+            },
+            {
+                "section": "P2",
+                "instructor": "Vilas H Gaidhane",
+                "room": "332",
+                "slots": [
+                    "T34"
+                ]
+            },
+            {
+                "section": "P3",
+                "instructor": "Shazia Hasan",
+                "room": "332",
+                "slots": [
+                    "T89"
+                ]
+            },
+            {
+                "section": "P4",
+                "instructor": "Adarsh Venkataraman",
+                "room": "332",
+                "slots": [
+                    "W34"
+                ]
+            },
+            {
+                "section": "P5",
+                "instructor": "Ananth Bhardwaj",
+                "room": "332",
+                "slots": [
+                    "W89"
+                ]
+            },
+            {
+                "section": "P6",
+                "instructor": "Nilesh Goel",
+                "room": "332",
+                "slots": [
+                    "Th89"
+                ]
+            }
+        ],
+        "midsem": "02.04.2025 AN",
+        "compre": "26.05.2025 AN"
+    },
+    "ECOM F242": {
+        "course_code": 2575,
+        "course_no": "ECOM F242",
+        "course_title": "CONTROL SYSTEMS",
+        "credit": "3",
+        "instructor_in_charge": "VILAS H GAIDHANE",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "VILAS H GAIDHANE",
+                "room": "228",
+                "slots": [
+                    "T78",
+                    "Th12"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "03.04.2025 AN",
+        "compre": "29.05.2025 AN"
+    },
+    "ECOM F243": {
+        "course_code": 2576,
+        "course_no": "ECOM F243",
+        "course_title": "SIGNALS & SYSTEMS",
+        "credit": "3",
+        "instructor_in_charge": "SHAZIA HASAN",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "SHAZIA HASAN",
+                "room": "228",
+                "slots": [
+                    "M12",
+                    "F45"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "07.04.2025 AN",
+        "compre": "28.05.2025 AN"
+    },
+    "ECOM F244": {
+        "course_code": 2577,
+        "course_no": "ECOM F244",
+        "course_title": "MICROELECTRONIC CIRCUITS",
+        "credit": "3",
+        "instructor_in_charge": "NILESH GOEL",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "NILESH GOEL",
+                "room": "228",
+                "slots": [
+                    "M34",
+                    "W89"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "08.04.2025 AN",
+        "compre": "02.06.2025 AN"
+    },
+    "ECOM F266": {
+        "course_code": 2583,
+        "course_no": "ECOM F266",
+        "course_title": "STUDY PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "SUJALA D SHETTY",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "ECON F211": {
+        "course_code": 1023,
+        "course_no": "ECON F211",
+        "course_title": "PRINCIPLES OF ECONOMICS",
+        "credit": "3",
+        "instructor_in_charge": "SARTAJ RASOOL",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "SARTAJ RASOOL",
+                "room": "214",
+                "slots": [
+                    "M56",
+                    "T9"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "02.04.2025 FN",
+        "compre": "30.05.2025 FN"
+    },
+    "ECON F212": {
+        "course_code": 1120,
+        "course_no": "ECON F212",
+        "course_title": "FUND OF FIN AND ACC",
+        "credit": "3",
+        "instructor_in_charge": "ASGAR ALI",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "ASGAR ALI",
+                "room": "228",
+                "slots": [
+                    "M89",
+                    "Th5"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "09.04.2025 AN",
+        "compre": "03.06.2025 AN"
+    },
+    "ECON F242": {
+        "course_code": 1443,
+        "course_no": "ECON F242",
+        "course_title": "MICROECONOMICS",
+        "credit": "3",
+        "instructor_in_charge": "SARTAJ RASOOL",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "SARTAJ RASOOL",
+                "room": "183",
+                "slots": [
+                    "T56",
+                    "Th89"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "09.04.2025 FN",
+        "compre": "02.06.2025 FN"
+    },
+    "ECON F312": {
+        "course_code": 1447,
+        "course_no": "ECON F312",
+        "course_title": "MONEY BANK & FIN MARKETS",
+        "credit": "3",
+        "instructor_in_charge": "AQILA BEGUM",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "AQILA BEGUM",
+                "room": "229",
+                "slots": [
+                    "W5",
+                    "Th89"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "07.04.2025 FN",
+        "compre": "30.05.2025 FN"
+    },
+    "FIN F313": {
+        "course_code": 1545,
+        "course_no": "FIN F313",
+        "course_title": "SECUR ANAL & PORTFOL MGT",
+        "credit": "3",
+        "instructor_in_charge": "ASGAR ALI",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "ASGAR ALI",
+                "room": "229",
+                "slots": [
+                    "M5",
+                    "W89"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "02.04.2025 FN",
+        "compre": "29.05.2025 FN"
+    },
+    "EEE F111": {
+        "course_code": 1009,
+        "course_no": "EEE F111",
+        "course_title": "ELECTRICAL SCIENCES",
+        "credit": "3",
+        "instructor_in_charge": "NILESH GOEL",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "Adarsh Venkataraman",
+                "room": "184",
+                "slots": [
+                    "T45",
+                    "F12"
+                ]
+            },
+            {
+                "section": "L2",
+                "instructor": "Nilesh Goel",
+                "room": "185",
+                "slots": [
+                    "T45",
+                    "Th5",
+                    "F1"
+                ]
+            },
+            {
+                "section": "L3",
+                "instructor": "Ashutosh Mishra",
+                "room": "189",
+                "slots": [
+                    "T45",
+                    "Th1",
+                    "F2"
+                ]
+            },
+            {
+                "section": "L4",
+                "instructor": "Adarsh Venkataraman",
+                "room": "190",
+                "slots": [
+                    "T1",
+                    "W9",
+                    "Th45"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "09.04.2025 FN",
+        "compre": "02.06.2025 FN"
+    },
+    "EEE F241": {
+        "course_code": 1238,
+        "course_no": "EEE F241",
+        "course_title": "MICROPROC & INTERFACING",
+        "credit": "4",
+        "instructor_in_charge": "SHAZIA HASAN",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "Shazia Hasan",
+                "room": "267",
+                "slots": [
+                    "T34",
+                    "Th34"
+                ]
+            },
+            {
+                "section": "L2",
+                "instructor": "Jagadish Nayak",
+                "room": "268",
+                "slots": [
+                    "T89",
+                    "Th12"
+                ]
+            },
+            {
+                "section": "L3",
+                "instructor": "Ananth Bhardwaj",
+                "room": "269",
+                "slots": [
+                    "M56",
+                    "Th12"
+                ]
+            },
+            {
+                "section": "L4",
+                "instructor": "Ananth Bhardwaj",
+                "room": "257",
+                "slots": [
+                    "T12",
+                    "W34"
+                ]
+            },
+            {
+                "section": "L5",
+                "instructor": "Jagadish Nayak",
+                "room": "228",
+                "slots": [
+                    "T23",
+                    "Th78"
+                ]
+            }
+        ],
+        "practical_sections": [
+            {
+                "section": "P1",
+                "instructor": "Jagadish Nayak",
+                "room": "332",
+                "slots": [
+                    "M34"
+                ]
+            },
+            {
+                "section": "P2",
+                "instructor": "Vilas H Gaidhane",
+                "room": "332",
+                "slots": [
+                    "T34"
+                ]
+            },
+            {
+                "section": "P3",
+                "instructor": "Shazia Hasan",
+                "room": "332",
+                "slots": [
+                    "T89"
+                ]
+            },
+            {
+                "section": "P4",
+                "instructor": "Adarsh Venkataraman",
+                "room": "332",
+                "slots": [
+                    "W34"
+                ]
+            },
+            {
+                "section": "P5",
+                "instructor": "Ananth Bhardwaj",
+                "room": "332",
+                "slots": [
+                    "W89"
+                ]
+            },
+            {
+                "section": "P6",
+                "instructor": "Nilesh Goel",
+                "room": "332",
+                "slots": [
+                    "Th89"
+                ]
+            }
+        ],
+        "midsem": "02.04.2025 AN",
+        "compre": "26.05.2025 AN"
+    },
+    "EEE F242": {
+        "course_code": 1239,
+        "course_no": "EEE F242",
+        "course_title": "CONTROL SYSTEMS",
+        "credit": "3",
+        "instructor_in_charge": "VILAS H GAIDHANE",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "VILAS H GAIDHANE",
+                "room": "228",
+                "slots": [
+                    "T78",
+                    "Th12"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "03.04.2025 AN",
+        "compre": "29.05.2025 AN"
+    },
+    "EEE F243": {
+        "course_code": 1240,
+        "course_no": "EEE F243",
+        "course_title": "SIGNALS & SYSTEMS",
+        "credit": "3",
+        "instructor_in_charge": "SHAZIA HASAN",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "SHAZIA HASAN",
+                "room": "228",
+                "slots": [
+                    "M12",
+                    "F45"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "07.04.2025 AN",
+        "compre": "28.05.2025 AN"
+    },
+    "EEE F244": {
+        "course_code": 1241,
+        "course_no": "EEE F244",
+        "course_title": "MICROELECTRONIC CIRCUITS",
+        "credit": "3",
+        "instructor_in_charge": "NILESH GOEL",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "NILESH GOEL",
+                "room": "228",
+                "slots": [
+                    "M34",
+                    "W89"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "08.04.2025 AN",
+        "compre": "02.06.2025 AN"
+    },
+    "EEE F266": {
+        "course_code": 1657,
+        "course_no": "EEE F266",
+        "course_title": "STUDY PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "ABDUL RAZAK",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "EEE F341": {
+        "course_code": 1245,
+        "course_no": "EEE F341",
+        "course_title": "ANALOG ELECTRONICS",
+        "credit": "4",
+        "instructor_in_charge": "VILAS H GAIDHANE",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "VILAS H GAIDHANE",
+                "room": "271",
+                "slots": [
+                    "M12",
+                    "W34"
+                ]
+            }
+        ],
+        "practical_sections": [
+            {
+                "section": "P1",
+                "instructor": "V Kalaichelvi",
+                "room": "304",
+                "slots": [
+                    "F345"
+                ]
+            }
+        ],
+        "midsem": "02.04.2025 AN",
+        "compre": "26.05.2025 AN"
+    },
+    "EEE F342": {
+        "course_code": 1246,
+        "course_no": "EEE F342",
+        "course_title": "POWER ELECTRONICS",
+        "credit": "4",
+        "instructor_in_charge": "SUNIL THOMAS",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "SUNIL THOMAS",
+                "room": "270",
+                "slots": [
+                    "T56",
+                    "F12"
+                ]
+            }
+        ],
+        "practical_sections": [
+            {
+                "section": "P1",
+                "instructor": "Sunil Thomas",
+                "room": "302",
+                "slots": [
+                    "M789"
+                ]
+            }
+        ],
+        "midsem": "07.04.2025 AN",
+        "compre": "28.05.2025 AN"
+    },
+    "EEE F366": {
+        "course_code": 1731,
+        "course_no": "EEE F366",
+        "course_title": "LABORATORY PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "ABDUL RAZAK",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "EEE F367": {
+        "course_code": 1742,
+        "course_no": "EEE F367",
+        "course_title": "LABORATORY PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "ABDUL RAZAK",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "EEE F376": {
+        "course_code": 1691,
+        "course_no": "EEE F376",
+        "course_title": "DESIGN PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "ABDUL RAZAK",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "EEE F377": {
+        "course_code": 1758,
+        "course_no": "EEE F377",
+        "course_title": "DESIGN PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "ABDUL RAZAK",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "EEE F411": {
+        "course_code": 2288,
+        "course_no": "EEE F411",
+        "course_title": "INTERNET OF THINGS",
+        "credit": "4",
+        "instructor_in_charge": "ASHUTOSH MISHRA",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "ASHUTOSH MISHRA",
+                "room": "270",
+                "slots": [
+                    "W5",
+                    "Th89"
+                ]
+            }
+        ],
+        "practical_sections": [
+            {
+                "section": "P1",
+                "instructor": "Ashutosh Mishra",
+                "room": "332",
+                "slots": [
+                    "W12"
+                ]
+            }
+        ],
+        "midsem": "07.04.2025 FN",
+        "compre": "30.05.2025 FN"
+    },
+    "EEE F417": {
+        "course_code": 1886,
+        "course_no": "EEE F417",
+        "course_title": "COMPUTER BASED CONTROL SYSTEM",
+        "credit": "3",
+        "instructor_in_charge": "GOMATHI BHAVANI",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "GOMATHI BHAVANI",
+                "room": "271",
+                "slots": [
+                    "T34",
+                    "Th6"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "04.04.2025 FN",
+        "compre": "04.06.2025 FN"
+    },
+    "EEE F432": {
+        "course_code": 1247,
+        "course_no": "EEE F432",
+        "course_title": "MEDICAL INSTRUMENTATION",
+        "credit": "3",
+        "instructor_in_charge": "R SWARNALATHA",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "R SWARNALATHA",
+                "room": "270",
+                "slots": [
+                    "T34",
+                    "Th6"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "04.04.2025 FN",
+        "compre": "04.06.2025 FN"
+    },
+    "EEE F472": {
+        "course_code": 1249,
+        "course_no": "EEE F472",
+        "course_title": "SATELLITE COMMUNICATION",
+        "credit": "3",
+        "instructor_in_charge": "ABDUL RAZAK",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "ABDUL RAZAK",
+                "room": "271",
+                "slots": [
+                    "M34",
+                    "Th5"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "09.04.2025 FN",
+        "compre": "27.05.2025 AN"
+    },
+    "EEE F491": {
+        "course_code": 1716,
+        "course_no": "EEE F491",
+        "course_title": "SPECIAL PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "ABDUL RAZAK",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "GS F211": {
+        "course_code": 1130,
+        "course_no": "GS F211",
+        "course_title": "MODERN POLITICAL CONCEPTS",
+        "credit": "3",
+        "instructor_in_charge": "SHAMSHAD KHAN",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "SHAMSHAD KHAN",
+                "room": "210",
+                "slots": [
+                    "W5",
+                    "Th89"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "07.04.2025 FN",
+        "compre": "30.05.2025 FN"
+    },
+    "GS F212": {
+        "course_code": 1131,
+        "course_no": "GS F212",
+        "course_title": "ENVIRON DEV & CLIMATE CH",
+        "credit": "3",
+        "instructor_in_charge": "GEETHA KANNAN",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "GEETHA KANNAN",
+                "room": "268",
+                "slots": [
+                    "M89",
+                    "Th5"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "09.04.2025 AN",
+        "compre": "03.06.2025 AN"
+    },
+    "GS F332": {
+        "course_code": 1176,
+        "course_no": "GS F332",
+        "course_title": "CONTEMPORARY INDIA",
+        "credit": "3",
+        "instructor_in_charge": "MRUTUYANJAYA SAHU",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "MRUTUYANJAYA SAHU",
+                "room": "210",
+                "slots": [
+                    "M5",
+                    "W89"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "02.04.2025 FN",
+        "compre": "29.05.2025 FN"
+    },
+    "HSS F252": {
+        "course_code": 2524,
+        "course_no": "HSS F252",
+        "course_title": "INTERNATIONAL LAW",
+        "credit": "3",
+        "instructor_in_charge": "SHAMSHAD KHAN",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "SHAMSHAD KHAN",
+                "room": "222",
+                "slots": [
+                    "M5",
+                    "W89"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "02.04.2025 FN",
+        "compre": "29.05.2025 FN"
+    },
+    "HSS F222": {
+        "course_code": 1603,
+        "course_no": "HSS F222",
+        "course_title": "LINGUISTICS",
+        "credit": "3",
+        "instructor_in_charge": "SAYANTAN CHAKRABORTY",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "SAYANTAN CHAKRABORTY",
+                "room": "220",
+                "slots": [
+                    "M89",
+                    "Th5"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "09.04.2025 AN",
+        "compre": "03.06.2025 AN"
+    },
+    "HSS F232": {
+        "course_code": 1775,
+        "course_no": "HSS F232",
+        "course_title": "INTRODUCTION TO DEVELOPMENT STUDIES",
+        "credit": "3",
+        "instructor_in_charge": "MRUTUYANJAYA SAHU",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "MRUTUYANJAYA SAHU",
+                "room": "257",
+                "slots": [
+                    "M89",
+                    "Th5"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "09.04.2025 AN",
+        "compre": "03.06.2025 AN"
+    },
+    "HSS F266": {
+        "course_code": 1776,
+        "course_no": "HSS F266",
+        "course_title": "STUDY PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "MRUTUYANJAYA SAHU",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "HSS F346": {
+        "course_code": 1626,
+        "course_no": "HSS F346",
+        "course_title": "INTERNATIONAL RELATIONS",
+        "credit": "3",
+        "instructor_in_charge": "SHAMSHAD KHAN",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "SHAMSHAD KHAN",
+                "room": "269",
+                "slots": [
+                    "M89",
+                    "Th5"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "09.04.2025 AN",
+        "compre": "03.06.2025 AN"
+    },
+    "HSS F349": {
+        "course_code": 1828,
+        "course_no": "HSS F349",
+        "course_title": "ECOCRITICISM",
+        "credit": "3",
+        "instructor_in_charge": "SAYANTAN CHAKRABORTY",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "SAYANTAN CHAKRABORTY",
+                "room": "226",
+                "slots": [
+                    "M5",
+                    "W89"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "02.04.2025 FN",
+        "compre": "29.05.2025 FN"
+    },
+    "HSS F350": {
+        "course_code": 1835,
+        "course_no": "HSS F350",
+        "course_title": "HUMAN RIGHTS: HISTORY, THEORY AND\nPRACTICE",
+        "credit": "3",
+        "instructor_in_charge": "MRUTUYANJAYA SAHU",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "MRUTUYANJAYA SAHU",
+                "room": "226",
+                "slots": [
+                    "W5",
+                    "Th89"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "07.04.2025 FN",
+        "compre": "30.05.2025 FN"
+    },
+    "HSS F365": {
+        "course_code": 2272,
+        "course_no": "HSS F365",
+        "course_title": "SCIENCE OF SUSTAINABLE HAPPINESS",
+        "credit": "3",
+        "instructor_in_charge": "SHAZI S J",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "SHAZI S J",
+                "room": "267",
+                "slots": [
+                    "M89",
+                    "Th5"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "-",
+        "compre": "03.06.2025 AN"
+    },
+    "IS F341": {
+        "course_code": 1529,
+        "course_no": "IS F341",
+        "course_title": "SOFTWARE ENGINEERING",
+        "credit": "4",
+        "instructor_in_charge": "B VIJAYAKUMAR",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "B VIJAYAKUMAR",
+                "room": "221",
+                "slots": [
+                    "W5",
+                    "Th89"
+                ]
+            }
+        ],
+        "practical_sections": [
+            {
+                "section": "P1",
+                "instructor": "B Vijayakumar",
+                "room": "108",
+                "slots": [
+                    "W12"
+                ]
+            }
+        ],
+        "midsem": "07.04.2025 FN",
+        "compre": "30.05.2025 FN"
+    },
+    "MATH F112": {
+        "course_code": 1011,
+        "course_no": "MATH F112",
+        "course_title": "MATHEMATICS II",
+        "credit": "3",
+        "instructor_in_charge": "SUHEL AHMAD KHAN",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "Asiya Latheef",
+                "room": "101",
+                "slots": [
+                    "T78",
+                    "F12"
+                ]
+            },
+            {
+                "section": "L2",
+                "instructor": "S Baskaran",
+                "room": "105",
+                "slots": [
+                    "T7",
+                    "W34",
+                    "Th5"
+                ]
+            },
+            {
+                "section": "L3",
+                "instructor": "Prashanth K Barik",
+                "room": "123",
+                "slots": [
+                    "M78",
+                    "W12"
+                ]
+            },
+            {
+                "section": "L4",
+                "instructor": "Shanookha Ali",
+                "room": "165",
+                "slots": [
+                    "T7",
+                    "W7",
+                    "Th23"
+                ]
+            },
+            {
+                "section": "L5",
+                "instructor": "Suhel Ahmad Khan",
+                "room": "184",
+                "slots": [
+                    "M7",
+                    "M8",
+                    "Th34"
+                ]
+            },
+            {
+                "section": "L6",
+                "instructor": "Asiya Latheef",
+                "room": "185",
+                "slots": [
+                    "M45",
+                    "Th12"
+                ]
+            },
+            {
+                "section": "L7",
+                "instructor": "Prashanth K Barik",
+                "room": "189",
+                "slots": [
+                    "M23",
+                    "T9",
+                    "F1"
+                ]
+            },
+            {
+                "section": "L8",
+                "instructor": "S Baskaran",
+                "room": "190",
+                "slots": [
+                    "M5",
+                    "T5",
+                    "Th2",
+                    "F2"
+                ]
+            },
+            {
+                "section": "L9",
+                "instructor": "K Kumar",
+                "room": "223",
+                "slots": [
+                    "M34",
+                    "Th34"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "04.04.2025 FN",
+        "compre": "30.05.2025 FN"
+    },
+    "MATH F113": {
+        "course_code": 1012,
+        "course_no": "MATH F113",
+        "course_title": "PROBABILITY & STATISTICS",
+        "credit": "3",
+        "instructor_in_charge": "MANEESHA",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "Maneesha",
+                "room": "184",
+                "slots": [
+                    "T12",
+                    "W9",
+                    "Th7"
+                ]
+            },
+            {
+                "section": "L2",
+                "instructor": "Shanookha Ali",
+                "room": "185",
+                "slots": [
+                    "T1",
+                    "W34",
+                    "F2"
+                ]
+            },
+            {
+                "section": "L3",
+                "instructor": "Shanookha Ali",
+                "room": "189",
+                "slots": [
+                    "M45",
+                    "Th78"
+                ]
+            },
+            {
+                "section": "L4",
+                "instructor": "Maneesha",
+                "room": "190",
+                "slots": [
+                    "M78",
+                    "Th3",
+                    "F1"
+                ]
+            },
+            {
+                "section": "L5",
+                "instructor": "K Kumar",
+                "room": "183",
+                "slots": [
+                    "T34",
+                    "F45"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "07.04.2025 FN",
+        "compre": "27.05.2025 FN"
+    },
+    "MATH F211": {
+        "course_code": 1022,
+        "course_no": "MATH F211",
+        "course_title": "MATHEMATICS III",
+        "credit": "3",
+        "instructor_in_charge": "S BASKARAN",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "A Somasundaram",
+                "room": "267",
+                "slots": [
+                    "T5",
+                    "Th7",
+                    "F45"
+                ]
+            },
+            {
+                "section": "L2",
+                "instructor": "Suhel Ahmad Khan",
+                "room": "268",
+                "slots": [
+                    "M12",
+                    "T12"
+                ]
+            },
+            {
+                "section": "L3",
+                "instructor": "Suhel Ahmad Khan",
+                "room": "257",
+                "slots": [
+                    "T5",
+                    "Th7",
+                    "F45"
+                ]
+            },
+            {
+                "section": "L4",
+                "instructor": "A Somasundaram",
+                "room": "205",
+                "slots": [
+                    "M34",
+                    "Th34"
+                ]
+            },
+            {
+                "section": "L5",
+                "instructor": "S Baskaran",
+                "room": "269",
+                "slots": [
+                    "M12",
+                    "T12"
+                ]
+            },
+            {
+                "section": "L6",
+                "instructor": "Prashanth K Barik",
+                "room": "268",
+                "slots": [
+                    "T5",
+                    "Th7",
+                    "F45"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "07.04.2025 FN",
+        "compre": "27.05.2025 FN"
+    },
+    "MATH F212": {
+        "course_code": 1122,
+        "course_no": "MATH F212",
+        "course_title": "OPTIMIZATION",
+        "credit": "3",
+        "instructor_in_charge": "MANEESHA",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "MANEESHA",
+                "room": "270",
+                "slots": [
+                    "M34",
+                    "F4"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "03.04.2025 FN",
+        "compre": "03.06.2025 FN"
+    },
+    "MATH F266": {
+        "course_code": 1662,
+        "course_no": "MATH F266",
+        "course_title": "STUDY PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "K K SINGH",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "MATH F366": {
+        "course_code": 1679,
+        "course_no": "MATH F366",
+        "course_title": "LABORATORY PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "K K SINGH",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "MATH F367": {
+        "course_code": 1747,
+        "course_no": "MATH F367",
+        "course_title": "LABORATORY PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "K K SINGH",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "MATH F376": {
+        "course_code": 1696,
+        "course_no": "MATH F376",
+        "course_title": "DESIGN PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "K K SINGH",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "MATH F377": {
+        "course_code": 1763,
+        "course_no": "MATH F377",
+        "course_title": "DESIGN PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "K K SINGH",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "MATH F491": {
+        "course_code": 1721,
+        "course_no": "MATH F491",
+        "course_title": "SPECIAL PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "K K SINGH",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "ME F112": {
+        "course_code": 2379,
+        "course_no": "ME F112",
+        "course_title": "WORKSHOP PRACTICE",
+        "credit": "2",
+        "instructor_in_charge": "VINCENT S KUMAR",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "VINCENT S KUMAR",
+                "room": "184",
+                "slots": [
+                    "M9"
+                ]
+            },
+            {
+                "section": "L2",
+                "instructor": "Vincent S Kumar",
+                "room": "185",
+                "slots": [
+                    "W2"
+                ]
+            },
+            {
+                "section": "L3",
+                "instructor": "Vincent S Kumar",
+                "room": "189",
+                "slots": [
+                    "T8"
+                ]
+            },
+            {
+                "section": "L4",
+                "instructor": "Vincent S Kumar",
+                "room": "190",
+                "slots": [
+                    "Th1"
+                ]
+            }
+        ],
+        "practical_sections": [
+            {
+                "section": "P1",
+                "instructor": "Nithin Tom Mathew",
+                "room": "MG1",
+                "slots": [
+                    "M34"
+                ]
+            },
+            {
+                "section": "P2",
+                "instructor": "Gulshan Kumar",
+                "room": "MG1",
+                "slots": [
+                    "M89"
+                ]
+            },
+            {
+                "section": "P3",
+                "instructor": "Nithin Tom Mathew",
+                "room": "MG1",
+                "slots": [
+                    "T23"
+                ]
+            },
+            {
+                "section": "P4",
+                "instructor": "Gulshan Kumar",
+                "room": "MG1",
+                "slots": [
+                    "T89"
+                ]
+            },
+            {
+                "section": "P5",
+                "instructor": "Snehaunshu Choudhury",
+                "room": "MG1",
+                "slots": [
+                    "W23"
+                ]
+            },
+            {
+                "section": "P6",
+                "instructor": "Priyank Upadhyaya",
+                "room": "MG1",
+                "slots": [
+                    "W89"
+                ]
+            },
+            {
+                "section": "P7",
+                "instructor": "Ram Karthikeyan",
+                "room": "MG1",
+                "slots": [
+                    "Th23"
+                ]
+            },
+            {
+                "section": "P8",
+                "instructor": "Vincent S Kumar",
+                "room": "MG1",
+                "slots": [
+                    "Th89"
+                ]
+            }
+        ],
+        "midsem": "-",
+        "compre": "03.06.2025 FN"
+    },
+    "ME F218": {
+        "course_code": 2397,
+        "course_no": "ME F218",
+        "course_title": "ADVANCED MECHANICS OF SOLIDS",
+        "credit": "2",
+        "instructor_in_charge": "PRIYANK UPADHYAYA",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "PRIYANK UPADHYAYA",
+                "room": "220",
+                "slots": [
+                    "T4",
+                    "W12"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "02.04.2025 AN",
+        "compre": "26.05.2025 AN"
+    },
+    "ME F219": {
+        "course_code": 2398,
+        "course_no": "ME F219",
+        "course_title": "MANUFACTURING PROCESSES",
+        "credit": "4",
+        "instructor_in_charge": "HARPREET SINGH",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "HARPREET SINGH",
+                "room": "220",
+                "slots": [
+                    "T78",
+                    "Th12"
+                ]
+            }
+        ],
+        "practical_sections": [
+            {
+                "section": "P1",
+                "instructor": "Harpreet Singh",
+                "room": "MG1",
+                "slots": [
+                    "F45"
+                ]
+            }
+        ],
+        "midsem": "03.04.2025 AN",
+        "compre": "29.05.2025 AN"
+    },
+    "ME F220": {
+        "course_code": 2430,
+        "course_no": "ME F220",
+        "course_title": "HEAT TRANSFER",
+        "credit": "4",
+        "instructor_in_charge": "SNEHAUNSHU CHOUDHURY",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "SNEHAUNSHU CHOUDHURY",
+                "room": "220",
+                "slots": [
+                    "M12",
+                    "F23"
+                ]
+            }
+        ],
+        "practical_sections": [
+            {
+                "section": "P1",
+                "instructor": "Majid H Khan",
+                "room": "MS4",
+                "slots": [
+                    "W456"
+                ]
+            }
+        ],
+        "midsem": "07.04.2025 AN",
+        "compre": "28.05.2025 AN"
+    },
+    "ME F221": {
+        "course_code": 2399,
+        "course_no": "ME F221",
+        "course_title": "MECHANISMS AND MACHINES",
+        "credit": "3",
+        "instructor_in_charge": "RAM KARTHIKEYAN",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "RAM KARTHIKEYAN",
+                "room": "220",
+                "slots": [
+                    "T23",
+                    "Th78"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "08.04.2025 AN",
+        "compre": "02.06.2025 AN"
+    },
+    "ME F266": {
+        "course_code": 1663,
+        "course_no": "ME F266",
+        "course_title": "STUDY PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "VINCENT S KUMAR",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "ME F318": {
+        "course_code": 2406,
+        "course_no": "ME F318",
+        "course_title": "COMPUTER AIDED DESIGN",
+        "credit": "3",
+        "instructor_in_charge": "RAVINDRA G BHARDWAJ",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "RAVINDRA G BHARDWAJ",
+                "room": "221",
+                "slots": [
+                    "W12"
+                ]
+            }
+        ],
+        "practical_sections": [
+            {
+                "section": "P1",
+                "instructor": "Ravindra G Bhardwaj",
+                "room": "MS6",
+                "slots": [
+                    "T56",
+                    "F23"
+                ]
+            }
+        ],
+        "midsem": "02.04.2025 AN",
+        "compre": "26.05.2025 AN"
+    },
+    "ME F319": {
+        "course_code": 2407,
+        "course_no": "ME F319",
+        "course_title": "VIBRATIONS AND CONTROL",
+        "credit": "3",
+        "instructor_in_charge": "HARPREET SINGH",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "HARPREET SINGH",
+                "room": "221",
+                "slots": [
+                    "M89",
+                    "T12"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "03.04.2025 AN",
+        "compre": "02.06.2025 AN"
+    },
+    "ME F320": {
+        "course_code": 2408,
+        "course_no": "ME F320",
+        "course_title": "ENGINEERING OPTIMIZATION",
+        "credit": "3",
+        "instructor_in_charge": "CHAKRADHAR IYYUNNI",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "CHAKRADHAR IYYUNNI",
+                "room": "221",
+                "slots": [
+                    "T34",
+                    "Th12"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "07.04.2025 AN",
+        "compre": "28.05.2025 AN"
+    },
+    "ME F341": {
+        "course_code": 1270,
+        "course_no": "ME F341",
+        "course_title": "PRIMEMOVERS & FLUID MACH",
+        "credit": "3",
+        "instructor_in_charge": "SHASHANK KHURANA",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "SHASHANK KHURANA",
+                "room": "221",
+                "slots": [
+                    "M12",
+                    "W3"
+                ]
+            }
+        ],
+        "practical_sections": [
+            {
+                "section": "P1",
+                "instructor": "Shashank Khurana",
+                "room": "MG1",
+                "slots": [
+                    "Th56"
+                ]
+            }
+        ],
+        "midsem": "08.04.2025 AN",
+        "compre": "29.05.2025 AN"
+    },
+    "ME F426": {
+        "course_code": 2311,
+        "course_no": "ME F426",
+        "course_title": "INDUSTRY 4.0",
+        "credit": "3",
+        "instructor_in_charge": "NITHIN TOM MATHEW",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "NITHIN TOM MATHEW",
+                "room": "220",
+                "slots": [
+                    "M6",
+                    "F45"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "04.04.2025 FN",
+        "compre": "04.06.2025 FN"
+    },
+    "ME F443": {
+        "course_code": 1284,
+        "course_no": "ME F443",
+        "course_title": "QUALI CONTRO ASSUR & REL",
+        "credit": "3",
+        "instructor_in_charge": "RAM KARTHIKEYAN",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "RAM KARTHIKEYAN",
+                "room": "221",
+                "slots": [
+                    "M34",
+                    "W4"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "09.04.2025 FN",
+        "compre": "27.05.2025 AN"
+    },
+    "ME F366": {
+        "course_code": 1680,
+        "course_no": "ME F366",
+        "course_title": "LABORATORY PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "VINCENT S KUMAR",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "ME F367": {
+        "course_code": 1748,
+        "course_no": "ME F367",
+        "course_title": "LABORATORY PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "VINCENT S KUMAR",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "ME F376": {
+        "course_code": 1697,
+        "course_no": "ME F376",
+        "course_title": "DESIGN PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "VINCENT S KUMAR",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "ME F377": {
+        "course_code": 1764,
+        "course_no": "ME F377",
+        "course_title": "DESIGN PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "VINCENT S KUMAR",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "ME F491": {
+        "course_code": 1290,
+        "course_no": "ME F491",
+        "course_title": "SPECIAL PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "VINCENT S KUMAR",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "MGTS F211": {
+        "course_code": 1024,
+        "course_no": "MGTS F211",
+        "course_title": "PRINCIPLES OF MANAGEMENT",
+        "credit": "3",
+        "instructor_in_charge": "YUSRA QAMAR",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "YUSRA QAMAR",
+                "room": "215",
+                "slots": [
+                    "M56",
+                    "T9"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "02.04.2025 FN",
+        "compre": "30.05.2025 FN"
+    },
+    "MGTS F311": {
+        "course_code": 2544,
+        "course_no": "MGTS F311",
+        "course_title": "MARKETING",
+        "credit": "3",
+        "instructor_in_charge": "JISS VARGHESE MATHEW",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "JISS VARGHESE MATHEW",
+                "room": "226",
+                "slots": [
+                    "T89",
+                    "W6"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "03.04.2025 FN",
+        "compre": "03.06.2025 FN"
+    },
+    "PHY F110": {
+        "course_code": 1014,
+        "course_no": "PHY F110",
+        "course_title": "PHYSICS LABORATORY",
+        "credit": "1",
+        "instructor_in_charge": "KRISHNAKANTA BHATTACHARYA",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "K K Singh",
+                "room": "309",
+                "slots": [
+                    "M34"
+                ]
+            },
+            {
+                "section": "L2",
+                "instructor": "Shishir Kumar Pandey",
+                "room": "309",
+                "slots": [
+                    "M89"
+                ]
+            },
+            {
+                "section": "L3",
+                "instructor": "Shishir Kumar Pandey",
+                "room": "309",
+                "slots": [
+                    "T23"
+                ]
+            },
+            {
+                "section": "L4",
+                "instructor": "Swati Routh",
+                "room": "309",
+                "slots": [
+                    "T89"
+                ]
+            },
+            {
+                "section": "L5",
+                "instructor": "Krishnakanta Bhattacharya",
+                "room": "309",
+                "slots": [
+                    "W23"
+                ]
+            },
+            {
+                "section": "L6",
+                "instructor": "Shishir Kumar Pandey",
+                "room": "309",
+                "slots": [
+                    "W89"
+                ]
+            },
+            {
+                "section": "L7",
+                "instructor": "Krishnakanta Bhattacharya",
+                "room": "309",
+                "slots": [
+                    "Th34"
+                ]
+            },
+            {
+                "section": "L8",
+                "instructor": "Swati Routh",
+                "room": "309",
+                "slots": [
+                    "Th89"
+                ]
+            },
+            {
+                "section": "L9",
+                "instructor": "Krishnakanta Bhattacharya",
+                "room": "309",
+                "slots": [
+                    "F34"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "PHY F111": {
+        "course_code": 1015,
+        "course_no": "PHY F111",
+        "course_title": "MECH OSCILLATIONS & WAVE",
+        "credit": "3",
+        "instructor_in_charge": "K K SINGH",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "Shishir Kumar Pandey",
+                "room": "184",
+                "slots": [
+                    "M12",
+                    "W45"
+                ]
+            },
+            {
+                "section": "L2",
+                "instructor": "Krishnakanta Bhattacharya",
+                "room": "185",
+                "slots": [
+                    "M12",
+                    "W5",
+                    "Th9"
+                ]
+            },
+            {
+                "section": "L3",
+                "instructor": "K K Singh",
+                "room": "189",
+                "slots": [
+                    "T1",
+                    "W23",
+                    "Th9"
+                ]
+            },
+            {
+                "section": "L4",
+                "instructor": "Swati Routh",
+                "room": "190",
+                "slots": [
+                    "M12",
+                    "W45"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "02.04.2025 FN",
+        "compre": "26.05.2025 FN"
+    },
+    "PHY F215": {
+        "course_code": 1493,
+        "course_no": "PHY F215",
+        "course_title": "INTRO TO ASTRO & ASTROPH",
+        "credit": "3",
+        "instructor_in_charge": "SWATI ROUTH",
+        "lecture_sections": [
+            {
+                "section": "L1",
+                "instructor": "SWATI ROUTH",
+                "room": "205",
+                "slots": [
+                    "M5",
+                    "W89"
+                ]
+            }
+        ],
+        "practical_sections": [],
+        "midsem": "02.04.2025 FN",
+        "compre": "29.05.2025 FN"
+    },
+    "PHY F266": {
+        "course_code": 1666,
+        "course_no": "PHY F266",
+        "course_title": "STUDY PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "K K SINGH",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "PHY F366": {
+        "course_code": 1683,
+        "course_no": "PHY F366",
+        "course_title": "LABORATORY PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "K K SINGH",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "PHY F367": {
+        "course_code": 1751,
+        "course_no": "PHY F367",
+        "course_title": "LABORATORY PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "K K SINGH",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "PHY F376": {
+        "course_code": 1700,
+        "course_no": "PHY F376",
+        "course_title": "DESIGN PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "K K SINGH",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    },
+    "PHY F377": {
+        "course_code": 1767,
+        "course_no": "PHY F377",
+        "course_title": "DESIGN PROJECT",
+        "credit": "3",
+        "instructor_in_charge": "K K SINGH",
+        "lecture_sections": [],
+        "practical_sections": [],
+        "midsem": null,
+        "compre": null
+    }
+}
